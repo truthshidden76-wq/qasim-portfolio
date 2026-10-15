@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 Disallow: /admin/
-Sitemap: https://portfolio-deploy-six-vert.vercel.app/sitemap.xml
+Sitemap: https://qasim-portfolio-vr5w.vercel.app/sitemap.xml
