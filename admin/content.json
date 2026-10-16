@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-16T00:05:33.294221+00:00",
+  "generatedAt": "2026-10-16T06:44:11.712804+00:00",
   "videos": [
+    {
+      "id": "Dein-VVBSO9",
+      "file": "reel-Dein-VVBSO9.mp4",
+      "title": "AI Photo Editing Trick You Need to Try! 🤯🔥",
+      "url": "https://www.instagram.com/reel/Dein-VVBSO9/",
+      "likes": 0,
+      "comments": 0,
+      "created_at": "2026-10-15"
+    },
     {
       "id": "DeYR1TDvyiM",
       "file": "reel-DeYR1TDvyiM.mp4",
@@ -423,9 +432,34 @@
       "path": "/assets/articles/50-google-flow-commands.html"
     },
     {
+      "slug": "7-ai-tools-2026-content-business",
+      "title": "7 AI Tools You Need in 2026 to 10X Your Content and Business",
+      "path": "/assets/articles/7-ai-tools-2026-content-business.html"
+    },
+    {
       "slug": "ai-automation-sleep-2026",
       "title": "AI Automation in 2026: Get Work Done While You Sleep (Honest Guide)",
       "path": "/assets/articles/ai-automation-sleep-2026.html"
+    },
+    {
+      "slug": "ai-image-to-3d-model-2026",
+      "title": "This AI Turns Images Into 3D Models (2026 Guide)",
+      "path": "/assets/articles/ai-image-to-3d-model-2026.html"
+    },
+    {
+      "slug": "ai-photo-trick-chatgpt-2026",
+      "title": "AI Photo Trick: Transform Any Photo with ChatGPT in 2026 (Free Method)",
+      "path": "/assets/articles/ai-photo-trick-chatgpt-2026.html"
+    },
+    {
+      "slug": "ai-product-ads-30-seconds-2026",
+      "title": "AI Product Ads in 30 Seconds With ChatGPT + Google Flow (2026)",
+      "path": "/assets/articles/ai-product-ads-30-seconds-2026.html"
+    },
+    {
+      "slug": "ai-social-media-posts-automatic-2026",
+      "title": "Stop Creating Social Media Posts Manually in 2026: AI Does It in Seconds",
+      "path": "/assets/articles/ai-social-media-posts-automatic-2026.html"
     },
     {
       "slug": "ai-ugc-ads-2026",
@@ -446,6 +480,11 @@
       "slug": "ai-voice-cloning-2026",
       "title": "AI Voice Cloning for Creators: Best Tools 2026",
       "path": "/assets/articles/ai-voice-cloning-2026.html"
+    },
+    {
+      "slug": "apple-watch-ai-ad-3-images-2026",
+      "title": "Apple Watch AI Ad From Just 3 Images: Case Study (2026)",
+      "path": "/assets/articles/apple-watch-ai-ad-3-images-2026.html"
     },
     {
       "slug": "beginner-free-ai-toolkit-2026",
@@ -478,9 +517,19 @@
       "path": "/assets/articles/build-ai-agents-free-2026.html"
     },
     {
+      "slug": "chatgpt-premium-free-alternatives-2026",
+      "title": "3 Free AI Websites That Replace ChatGPT Premium in 2026",
+      "path": "/assets/articles/chatgpt-premium-free-alternatives-2026.html"
+    },
+    {
       "slug": "chatgpt-vs-claude-vs-gemini-which-ai-to-use",
       "title": "ChatGPT vs Claude vs Gemini (2026): Best AI by Task",
       "path": "/assets/articles/chatgpt-vs-claude-vs-gemini-which-ai-to-use.html"
+    },
+    {
+      "slug": "claude-one-connector-ad-video-2026",
+      "title": "Claude Creates a Full Ad Video With One Connector (2026)",
+      "path": "/assets/articles/claude-one-connector-ad-video-2026.html"
     },
     {
       "slug": "claude-prompt-to-video-2026",
@@ -496,6 +545,21 @@
       "slug": "click-booster-kit-free-ai-tools-thumbnails-titles-video-ideas-2026",
       "title": "Click Booster Kit: Free AI Tools for Thumbnails, Titles and Video Ideas That Win the Click in 2026",
       "path": "/assets/articles/click-booster-kit-free-ai-tools-thumbnails-titles-video-ideas-2026.html"
+    },
+    {
+      "slug": "clone-voice-3-seconds-ai-2026",
+      "title": "Clone Your Voice in 3 Seconds With AI (2026 Guide)",
+      "path": "/assets/articles/clone-voice-3-seconds-ai-2026.html"
+    },
+    {
+      "slug": "consistent-ai-videos-minutes-2026",
+      "title": "Create Consistent AI Videos in Minutes: The 2026 Workflow",
+      "path": "/assets/articles/consistent-ai-videos-minutes-2026.html"
+    },
+    {
+      "slug": "descript-ai-video-editor-2026",
+      "title": "Descript AI Video Editor: Edit Videos Like Text in 2026",
+      "path": "/assets/articles/descript-ai-video-editor-2026.html"
     },
     {
       "slug": "ditch-paid-apps-free-ai-replacements-2026",
@@ -523,6 +587,16 @@
       "path": "/assets/articles/flow-credits-alternatives-qwen-fliki-2026.html"
     },
     {
+      "slug": "free-ai-models-one-api-key-2026",
+      "title": "20+ Free AI Models With One API Key (2026 Guide)",
+      "path": "/assets/articles/free-ai-models-one-api-key-2026.html"
+    },
+    {
+      "slug": "free-ai-prompts-library-2026",
+      "title": "30,000+ Free AI Prompts in One Website (2026 Guide)",
+      "path": "/assets/articles/free-ai-prompts-library-2026.html"
+    },
+    {
       "slug": "free-ai-tools-2026",
       "title": "Best Free AI Tools for Content Creators in 2026",
       "path": "/assets/articles/free-ai-tools-2026.html"
@@ -543,9 +617,24 @@
       "path": "/assets/articles/freelancer-ai-kit-free-tools-2026.html"
     },
     {
+      "slug": "gemini-free-students-2026",
+      "title": "Google Gemini 3.8 and 25 Pro Free for Students (2026 Guide)",
+      "path": "/assets/articles/gemini-free-students-2026.html"
+    },
+    {
+      "slug": "google-free-ai-tools-save-hours-2026",
+      "title": "5 Google Free AI Tools That Save You Hours in 2026",
+      "path": "/assets/articles/google-free-ai-tools-save-hours-2026.html"
+    },
+    {
       "slug": "google-synthid-detect-ai-content-2026",
       "title": "Google SynthID: How to Detect AI-Generated Content in 2026",
       "path": "/assets/articles/google-synthid-detect-ai-content-2026.html"
+    },
+    {
+      "slug": "gpt-6-free-access-websites-2026",
+      "title": "GPT-6 Free Access? 2 Websites You Need to Know (2026)",
+      "path": "/assets/articles/gpt-6-free-access-websites-2026.html"
     },
     {
       "slug": "hardest-part-content-consistency-system-2026",
@@ -593,6 +682,11 @@
       "path": "/assets/articles/kling-veo-free.html"
     },
     {
+      "slug": "kling-veo-seedance-free-2026",
+      "title": "Use Kling, Veo and Seedance 2 for Free: 3 Secret Websites (2026)",
+      "path": "/assets/articles/kling-veo-seedance-free-2026.html"
+    },
+    {
       "slug": "kling-veo-seedance-free",
       "title": "Kling vs Veo vs Seedance: Free AI Video Tools",
       "path": "/assets/articles/kling-veo-seedance-free.html"
@@ -601,6 +695,11 @@
       "slug": "look-professional-free-ai-tools-2026",
       "title": "How to Look Professional with Free AI Tools",
       "path": "/assets/articles/look-professional-free-ai-tools-2026.html"
+    },
+    {
+      "slug": "ltx-2-5-open-source-video-2026",
+      "title": "LTX 2.5: The Open-Source AI Video Model Creators Need (2026)",
+      "path": "/assets/articles/ltx-2-5-open-source-video-2026.html"
     },
     {
       "slug": "make-money-ai-videos-2026",
@@ -616,6 +715,16 @@
       "slug": "my-daily-ai-stack-free-tools-content-business-2026",
       "title": "My Daily AI Stack: The Free Tools I Use Every Day to Run a Content Business in 2026",
       "path": "/assets/articles/my-daily-ai-stack-free-tools-content-business-2026.html"
+    },
+    {
+      "slug": "nvidia-free-ai-coder-2026",
+      "title": "NVIDIA&#x27;s Free AI Coder Is Here: What Creators Should Know (2026)",
+      "path": "/assets/articles/nvidia-free-ai-coder-2026.html"
+    },
+    {
+      "slug": "one-photo-five-ai-ads-2026",
+      "title": "1 Photo = 5 AI Ads: The Product Ad Multiplier (2026)",
+      "path": "/assets/articles/one-photo-five-ai-ads-2026.html"
     },
     {
       "slug": "one-photo-to-video-ad-ai-tools-2026",
@@ -656,6 +765,11 @@
       "slug": "thirty-thousand-ai-prompts",
       "title": "30K AI Prompts: Free Prompt Library Guide",
       "path": "/assets/articles/thirty-thousand-ai-prompts.html"
+    },
+    {
+      "slug": "unlimited-ai-videos-secret-2026",
+      "title": "The Secret to Unlimited AI Videos in 2026 (Free Method)",
+      "path": "/assets/articles/unlimited-ai-videos-secret-2026.html"
     },
     {
       "slug": "unlimited-ai-videos",
@@ -709,7 +823,7 @@
     }
   ],
   "counts": {
-    "videos": 46,
-    "articles": 58
+    "videos": 47,
+    "articles": 79
   }
 }

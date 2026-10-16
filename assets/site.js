@@ -66,8 +66,22 @@
       document.addEventListener('click',function(e){if(!e.target.closest('.theme-picker'))closeThemes();if(!e.target.closest('.nav-search'))closeSearch()});
 
       var primaryReelGrid=document.getElementById('primary-reel-grid');
+      if(primaryReelGrid&&!primaryReelGrid.querySelector('[data-reel-id="Dein-VVBSO9"]')){
+        var reelTitle='AI Photo Editing Trick You Need to Try! 🤯🔥';
+        var newestReel=primaryReelGrid.firstElementChild.cloneNode(true);
+        newestReel.setAttribute('data-reel-id','Dein-VVBSO9');newestReel.setAttribute('aria-label','Play or pause '+reelTitle);
+        var newestPoster=newestReel.querySelector('.video-poster');newestPoster.src='assets/videos/thumb-Dein-VVBSO9.jpg';newestPoster.alt='Thumbnail for '+reelTitle+' Instagram reel';
+        var newestVideo=newestReel.querySelector('.selfhosted-video');newestVideo.removeAttribute('src');newestVideo.poster='assets/videos/thumb-Dein-VVBSO9.jpg';newestVideo.setAttribute('data-src','assets/videos/reel-Dein-VVBSO9.mp4');newestVideo.setAttribute('aria-label',reelTitle+' Instagram reel');
+        var newestTrigger=newestReel.querySelector('.video-trigger');newestTrigger.setAttribute('aria-label','Play '+reelTitle);
+        var newestKicker=newestReel.querySelector('.video-kicker');newestKicker.firstChild.nodeValue='Reel 01 ';newestKicker.querySelector('span').textContent='New';
+        newestReel.querySelector('h4').textContent=reelTitle;var newestLink=newestReel.querySelector('.video-card-copy a');newestLink.href='https://www.instagram.com/reel/Dein-VVBSO9/';
+        var oldLatest=primaryReelGrid.querySelector('.video-badge');if(oldLatest)oldLatest.remove();
+        primaryReelGrid.insertBefore(newestReel,primaryReelGrid.firstElementChild);
+        var reelCount=document.querySelector('.video-eyebrow');if(reelCount)reelCount.textContent='Instagram portfolio · '+primaryReelGrid.children.length+' reels';
+        siteEntries=searchEntries();
+      }
       var reelOrder={
-        DeYR1TDvyiM:{date:'2026-10-11',likes:0},DeRRHFmJ8Mc:{date:'2026-10-09 03:14:57',likes:1},DeOpyglM39c:{date:'2026-10-08 02:52:31',likes:40},DeL8GjlOo71:{date:'2026-10-08 04:44:00',likes:0},DeGs3CSBJWr:{date:'2026-10-05 00:45:01',likes:2},DeENKa9pwS1:{date:'2026-10-04 01:30:09',likes:17},DeBEmauBVEE:{date:'2026-10-02 20:17:00',likes:4},Dd_e6VFBTzB:{date:'2026-10-01 20:10:15',likes:0},Dd8ix7vOPIS:{date:'2026-10-01 02:05:17',likes:0},Dd5i9_ByRpU:{date:'2026-09-29 22:08:52',likes:2},Dd21kuZBHoU:{date:'2026-09-28',likes:6},Ddx4AHkhuyV:{date:'2026-09-26 22:40:55',likes:2},DdvfLgfpTE0:{date:'2026-09-26 00:26:33',likes:10},DdqumiaBbj6:{date:'2026-09-24',likes:47},DdnzPZPPW3J:{date:'2026-09-23',likes:178},Ddk0WQ2hVSA:{date:'2026-09-21',likes:7},
+        'Dein-VVBSO9':{date:'2026-10-15',likes:0},DeYR1TDvyiM:{date:'2026-10-11',likes:0},DeRRHFmJ8Mc:{date:'2026-10-09 03:14:57',likes:1},DeOpyglM39c:{date:'2026-10-08 02:52:31',likes:40},DeL8GjlOo71:{date:'2026-10-08 04:44:00',likes:0},DeGs3CSBJWr:{date:'2026-10-05 00:45:01',likes:2},DeENKa9pwS1:{date:'2026-10-04 01:30:09',likes:17},DeBEmauBVEE:{date:'2026-10-02 20:17:00',likes:4},Dd_e6VFBTzB:{date:'2026-10-01 20:10:15',likes:0},Dd8ix7vOPIS:{date:'2026-10-01 02:05:17',likes:0},Dd5i9_ByRpU:{date:'2026-09-29 22:08:52',likes:2},Dd21kuZBHoU:{date:'2026-09-28',likes:6},Ddx4AHkhuyV:{date:'2026-09-26 22:40:55',likes:2},DdvfLgfpTE0:{date:'2026-09-26 00:26:33',likes:10},DdqumiaBbj6:{date:'2026-09-24',likes:47},DdnzPZPPW3J:{date:'2026-09-23',likes:178},Ddk0WQ2hVSA:{date:'2026-09-21',likes:7},
         DdiSbRHOTKF:{date:'2026-09-20',likes:81},DdgakAzNozy:{date:'2026-09-20',likes:6},DddCkAuucPX:{date:'2026-09-18',likes:4},
         DdauE_gs1Xm:{date:'2026-09-17',likes:87},DdX6rvkhkMo:{date:'2026-09-16',likes:3},DdVpNJhPnNR:{date:'2026-09-15',likes:6},
         DdRJlxMuxNj:{date:'2026-09-14',likes:1145},DdO3cQDBdYT:{date:'2026-09-13',likes:5},DdLZO4ohVd4:{date:'2026-09-11',likes:22},
@@ -78,7 +92,7 @@
         DbuWa_itL_J:{date:'2026-08-06',likes:73},DbUo__ntnvU:{date:'2026-07-27',likes:186},DbPhNo_BH4w:{date:'2026-07-25',likes:86},DbIOo9vvGTx:{date:'2026-07-23',likes:876}
       };
       function reelMeta(card){var id=card.getAttribute('data-reel-id');return reelOrder[id]||reelOrder[id.replace(/-/g,'_')]||{date:'',likes:0}}
-      if(primaryReelGrid){var orderedReels=Array.prototype.slice.call(primaryReelGrid.children);orderedReels.sort(function(a,b){var pinned=['DeYR1TDvyiM','DdRJlxMuxNj','DbhkO_thAz0','DcuwQDlBc1y','DbIOo9vvGTx','Dcaj90Atvlo','DbUo-_ntnvU','DdnzPZPPW3J','DeRRHFmJ8Mc','DeOpyglM39c','DeL8GjlOo71','DeGs3CSBJWr','DeENKa9pwS1','DeBEmauBVEE','Dd-e6VFBTzB','Dd8ix7vOPIS','Dd5i9_ByRpU'],aPinned=pinned.indexOf(a.getAttribute('data-reel-id')),bPinned=pinned.indexOf(b.getAttribute('data-reel-id'));if(aPinned>-1||bPinned>-1)return aPinned===-1?1:bPinned===-1?-1:aPinned-bPinned;var ma=reelMeta(a),mb=reelMeta(b);return mb.likes-ma.likes||mb.date.localeCompare(ma.date)});orderedReels.forEach(function(card,index){primaryReelGrid.appendChild(card);var kicker=card.querySelector('.video-kicker');if(kicker&&kicker.firstChild)kicker.firstChild.nodeValue='Reel '+String(index+1).padStart(2,'0')+' '})}
+      if(primaryReelGrid){var orderedReels=Array.prototype.slice.call(primaryReelGrid.children);orderedReels.sort(function(a,b){var pinned=['Dein-VVBSO9','DeYR1TDvyiM','DdRJlxMuxNj','DbhkO_thAz0','DcuwQDlBc1y','DbIOo9vvGTx','Dcaj90Atvlo','DbUo-_ntnvU','DdnzPZPPW3J','DeRRHFmJ8Mc','DeOpyglM39c','DeL8GjlOo71','DeGs3CSBJWr','DeENKa9pwS1','DeBEmauBVEE','Dd-e6VFBTzB','Dd8ix7vOPIS','Dd5i9_ByRpU'],aPinned=pinned.indexOf(a.getAttribute('data-reel-id')),bPinned=pinned.indexOf(b.getAttribute('data-reel-id'));if(aPinned>-1||bPinned>-1)return aPinned===-1?1:bPinned===-1?-1:aPinned-bPinned;var ma=reelMeta(a),mb=reelMeta(b);return mb.likes-ma.likes||mb.date.localeCompare(ma.date)});orderedReels.forEach(function(card,index){primaryReelGrid.appendChild(card);var kicker=card.querySelector('.video-kicker');if(kicker&&kicker.firstChild)kicker.firstChild.nodeValue='Reel '+String(index+1).padStart(2,'0')+' '})}
 
       var portfolioVideos=Array.prototype.slice.call(document.querySelectorAll('.selfhosted-video'));
       function pauseOtherVideos(active){portfolioVideos.forEach(function(video){if(video!==active){video.pause();video.closest('.video-card').classList.remove('is-playing')}})}
