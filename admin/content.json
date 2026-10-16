@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T06:44:13.478408+00:00",
+  "generatedAt": "2026-10-16T00:05:33.294221+00:00",
   "videos": [
     {
       "id": "DeYR1TDvyiM",
@@ -518,6 +518,11 @@
       "path": "/assets/articles/flashlight-photo-trend-2026.html"
     },
     {
+      "slug": "flow-credits-alternatives-qwen-fliki-2026",
+      "title": "Ran Out of Flow AI Credits? 2 Free AI Video Generators Worth Trying in 2026 (Qwen AI + Fliki)",
+      "path": "/assets/articles/flow-credits-alternatives-qwen-fliki-2026.html"
+    },
+    {
       "slug": "free-ai-tools-2026",
       "title": "Best Free AI Tools for Content Creators in 2026",
       "path": "/assets/articles/free-ai-tools-2026.html"
@@ -705,6 +710,6 @@
   ],
   "counts": {
     "videos": 46,
-    "articles": 57
+    "articles": 58
   }
 }
