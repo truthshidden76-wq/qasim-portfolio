@@ -42,6 +42,11 @@
     .pricing .price-card .price{transform:translateZ(28px)}
     .pricing .price-card h4{transform:translateZ(14px)}
     .pricing .price-card p,.pricing .price-card .package-list{transform:translateZ(7px)}
+    /* Layout uniformity: full-width category bands, gap-free uniform card grid */
+    .pricing .pricing-catalog{display:grid;grid-template-columns:1fr;gap:26px;border:0}
+    .pricing .pricing-category,.pricing .pricing-category.wide{grid-column:1/-1}
+    .pricing .pricing-category .pricing-options{grid-template-columns:repeat(auto-fit,minmax(290px,1fr));gap:16px;flex:1}
+    .pricing .pricing-category .pricing-options>.price-card{margin:0}
   </style>
 </head>
 <body>
