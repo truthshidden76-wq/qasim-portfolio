@@ -131,11 +131,79 @@
 
       if('IntersectionObserver' in window&&!reduceMotion){var observer=new IntersectionObserver(function(entries){entries.forEach(function(entry){if(entry.isIntersecting){entry.target.classList.add('visible');observer.unobserve(entry.target)}})},{threshold:.08});document.querySelectorAll('.reveal').forEach(function(el){observer.observe(el)})}else{document.querySelectorAll('.reveal').forEach(function(el){el.classList.add('visible')})}
 
-      /* ===== Numbers bar: PLACEHOLDER STATS — Qasim to confirm the 4 real numbers ===== */
-      var SITE_STATS={projects:450,clients:380,years:5,videos:900};
+      /* ===== Numbers bar: confirmed real stats (2026-10-17) ===== */
+      var SITE_STATS={projects:300,clients:220,years:5,videos:900};
       (function(){var nums=document.querySelectorAll('.num-count');if(!nums.length)return;
         function animate(el,target){var start=null,dur=1400;function step(ts){if(!start)start=ts;var p=Math.min((ts-start)/dur,1),e=1-Math.pow(1-p,3);el.textContent=Math.round(target*e);if(p<1)requestAnimationFrame(step)}if(reduceMotion){el.textContent=target;return}requestAnimationFrame(step)}
         function run(){nums.forEach(function(el){var key=el.getAttribute('data-stat');if(SITE_STATS[key]!=null)animate(el,SITE_STATS[key])})}
         if('IntersectionObserver' in window){var no=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){run();no.disconnect()}})},{threshold:.4});var numbersEl=document.getElementById('numbers');if(numbersEl){no.observe(numbersEl)}else{run()}}else{run()}
+      })();
+
+      /* ===== Articles pagination: 15 per page (2026-10-17) ===== */
+      (function(){
+        var nav=document.getElementById('articles-pagination');
+        if(!nav)return;
+        var collection=document.querySelector('.article-collection');
+        if(!collection)return;
+        var cards=Array.prototype.slice.call(collection.querySelectorAll('.article-card'));
+        var PER=15,total=cards.length,pages=Math.max(1,Math.ceil(total/PER));
+        if(pages<2)return;
+        var cur=1;
+        function cardPage(id){for(var i=0;i<cards.length;i++){if(cards[i].id===id)return Math.floor(i/PER)+1}return 0}
+        function render(){
+          nav.innerHTML='';
+          function btn(label,page,opts){opts=opts||{};var b=document.createElement('button');b.type='button';b.className='page-btn';b.innerHTML=label;if(opts.cur)b.setAttribute('aria-current','page');if(opts.dis)b.disabled=true;if(opts.aria)b.setAttribute('aria-label',opts.aria);b.addEventListener('click',function(){show(page,true)});nav.appendChild(b)}
+          btn('&lsaquo; Prev',Math.max(1,cur-1),{dis:cur===1,aria:'Previous page'});
+          for(var p=1;p<=pages;p++){btn('Page '+p,p,{cur:p===cur,aria:'Go to page '+p+' of '+pages})}
+          btn('Next &rsaquo;',Math.min(pages,cur+1),{dis:cur===pages,aria:'Next page'});
+          var c=document.createElement('p');c.className='page-count';c.id='page-count';c.setAttribute('aria-live','polite');
+          var start=(cur-1)*PER,end=Math.min(total,start+PER);
+          c.textContent='Showing '+(start+1)+'\u2013'+end+' of '+total+' guides \u00b7 Page '+cur+' of '+pages;
+          nav.appendChild(c);
+        }
+        function show(n,animate){
+          cur=Math.min(pages,Math.max(1,n));
+          var start=(cur-1)*PER;
+          if(animate&&!reduceMotion){collection.classList.remove('paging');void collection.offsetWidth;collection.classList.add('paging')}
+          cards.forEach(function(card,i){
+            var on=i>=start&&i<start+PER;
+            card.classList.toggle('page-hidden',!on);
+            if(on&&animate)card.classList.add('visible');
+          });
+          render();
+          try{var u=new URL(location.href);u.searchParams.set('page',String(cur));history.replaceState(null,'',u)}catch(e){}
+          if(animate){var y=collection.getBoundingClientRect().top+window.scrollY-84;window.scrollTo({top:y,behavior:reduceMotion?'auto':'smooth'})}
+        }
+        var init=1;
+        try{var q=new URL(location.href).searchParams.get('page');if(q)init=parseInt(q,10)||1}catch(e){}
+        var hashId=(location.hash||'').slice(1),hashCard=hashId?document.getElementById(hashId):null,hashPage=hashCard?cardPage(hashCard.id):0;
+        if(init===1&&hashPage)init=hashPage;
+        nav.hidden=false;
+        show(init,false);
+        if(hashCard&&hashPage===cur){window.setTimeout(function(){try{hashCard.scrollIntoView({behavior:reduceMotion?'auto':'smooth',block:'center'})}catch(e){}},80)}
+      })();
+
+      /* ===== 3D mouse tilt on article cards (2026-10-17) ===== */
+      (function(){
+        if(reduceMotion)return;
+        if(!window.matchMedia||!matchMedia('(hover:hover) and (pointer:fine)').matches)return;
+        var cards=document.querySelectorAll('#articles .article-card');
+        if(!cards.length)return;
+        cards.forEach(function(card){
+          var raf=null;
+          card.addEventListener('mouseenter',function(){card.classList.add('tilt')});
+          card.addEventListener('mousemove',function(e){
+            if(raf)return;
+            raf=requestAnimationFrame(function(){
+              raf=null;
+              var r=card.getBoundingClientRect(),
+                  px=(e.clientX-r.left)/r.width-0.5,
+                  py=(e.clientY-r.top)/r.height-0.5;
+              card.style.setProperty('--ry',(px*7).toFixed(2)+'deg');
+              card.style.setProperty('--rx',(-py*7).toFixed(2)+'deg');
+            });
+          });
+          card.addEventListener('mouseleave',function(){card.classList.remove('tilt');card.style.removeProperty('--rx');card.style.removeProperty('--ry')});
+        });
       })();
     })();
