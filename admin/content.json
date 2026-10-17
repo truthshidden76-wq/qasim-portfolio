@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T06:44:11.712804+00:00",
+  "generatedAt": "2026-10-17T00:02:08.681346+00:00",
   "videos": [
     {
       "id": "Dein-VVBSO9",
@@ -767,6 +767,11 @@
       "path": "/assets/articles/thirty-thousand-ai-prompts.html"
     },
     {
+      "slug": "trellis-2-image-to-3d-free-ai-tool-2026",
+      "title": "Trellis 2: Turn Any Image Into a 3D Model for Free in 2026",
+      "path": "/assets/articles/trellis-2-image-to-3d-free-ai-tool-2026.html"
+    },
+    {
       "slug": "unlimited-ai-videos-secret-2026",
       "title": "The Secret to Unlimited AI Videos in 2026 (Free Method)",
       "path": "/assets/articles/unlimited-ai-videos-secret-2026.html"
@@ -824,6 +829,6 @@
   ],
   "counts": {
     "videos": 47,
-    "articles": 79
+    "articles": 80
   }
 }
