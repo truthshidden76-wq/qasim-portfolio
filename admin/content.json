@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-18T06:44:09.738229+00:00",
+  "generatedAt": "2026-10-19T06:44:06.667861+00:00",
   "videos": [
+    {
+      "id": "DeqZur7h5ZV",
+      "file": "reel-DeqZur7h5ZV.mp4",
+      "title": "3 FREE UI Libraries to Build PREMIUM Websites 🔥",
+      "url": "https://www.instagram.com/reel/DeqZur7h5ZV/",
+      "likes": 0,
+      "comments": 0,
+      "created_at": "2026-10-18 21:30:53"
+    },
     {
       "id": "DelaPDUusl8",
       "file": "reel-DelaPDUusl8.mp4",
@@ -436,6 +445,11 @@
   ],
   "articles": [
     {
+      "slug": "3-free-ui-websites-2026",
+      "title": "3 FREE Websites for Premium UI Animations in 2026",
+      "path": "/assets/articles/3-free-ui-websites-2026.html"
+    },
+    {
       "slug": "50-google-flow-commands",
       "title": "50 Google Flow Commands for Cinematic AI Videos",
       "path": "/assets/articles/50-google-flow-commands.html"
@@ -842,7 +856,7 @@
     }
   ],
   "counts": {
-    "videos": 48,
-    "articles": 81
+    "videos": 49,
+    "articles": 82
   }
 }
