@@ -223,7 +223,7 @@
     .footer-socials{grid-column:1/-1;display:flex;flex-wrap:wrap;gap:8px;padding-top:18px;border-top:1px solid var(--line)}.footer-socials a{padding:7px 10px;border:1px solid var(--line);font-size:10px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;display:inline-flex;align-items:center;gap:7px}.footer-socials svg{width:14px;height:14px;fill:none;stroke:currentColor;stroke-width:1.8;flex:0 0 auto}.footer-socials a:hover{background:var(--ink);color:var(--bg)}
     .back-top{position:fixed;right:20px;bottom:20px;z-index:90;width:46px;height:46px;border:1px solid var(--line);background:var(--surface);color:var(--ink);display:grid;place-items:center;cursor:pointer;opacity:1;transform:none;transition:.25s}.back-top:not(.show){opacity:.7}.back-top:hover,.back-top:focus-visible{background:var(--ink);color:var(--bg)}
     .cursor-dot,.cursor-ring{position:fixed;left:0;top:0;pointer-events:none;z-index:600;border-radius:50%;display:none}.cursor-dot{width:5px;height:5px;background:var(--gold-bright)}.cursor-ring{width:32px;height:32px;border:1px solid var(--gold-bright);transition:width .18s,height .18s,border-color .18s}.cursor-ring.hover{width:50px;height:50px;border-color:var(--crimson)}
-    @media(pointer:fine) and (min-width:900px){.cursor-dot,.cursor-ring{display:none!important}}
+    @media(pointer:fine) and (min-width:900px){}
     @media(max-width:1000px){.work-tools{align-items:stretch}.theme-name{display:none}.about-socials{grid-template-columns:repeat(2,minmax(0,1fr))}.services-showcase{grid-template-columns:minmax(0,1fr) minmax(230px,290px)}}
     @media(max-width:760px){.about-gallery{grid-template-columns:repeat(2,minmax(0,1fr));grid-auto-rows:auto}.about-photo.desk,.about-photo.editing{grid-column:span 1;grid-row:auto;aspect-ratio:3/4}.services-showcase{grid-template-columns:1fr}.services-portrait{position:static;order:-1}.services-portrait img{aspect-ratio:1;object-position:center 38%}.theme-picker{width:100%;margin-top:8px}.theme-toggle{width:100%;justify-content:flex-start;padding:11px 0;border:0;background:transparent}.theme-name{display:inline}.theme-panel{position:static;width:100%;box-shadow:none;margin-top:4px}.work-tools{display:grid;margin-top:-18px}.search-wrap{max-width:none}.sort-group{display:grid;grid-template-columns:1fr 1fr}.sort-button{width:100%}.project-card.thumbnail-card,.work-grid .project-card.thumbnail-card:nth-child(n){min-height:0;aspect-ratio:4/3}.thumbnail-card .open-mark{opacity:1}.thumbnail-card h3{font-size:22px}.scroll-cue{display:none}.field-grid{grid-template-columns:1fr}.field.full{grid-column:auto}.modal-media:after{display:none}}
     @media(max-width:430px){.thumbnail-card .card-meta{padding:13px}.thumbnail-card h3{font-size:18px}.thumb-facts{font-size:9px}.contact-form{padding:18px}.contact-actions{display:grid}.contact-pill{width:100%}.about-socials,.channel-list{grid-template-columns:1fr}}
@@ -583,3 +583,34 @@
     .brand-logo img{width:46px;height:46px;display:block;filter:drop-shadow(0 8px 14px rgba(0,0,0,.65)) drop-shadow(0 2px 5px rgba(0,0,0,.45));transition:filter .3s,transform .3s}
     .brand-logo:hover img{transform:translateY(-5px) scale(1.1);filter:drop-shadow(0 14px 22px rgba(0,0,0,.7)) drop-shadow(0 0 12px rgba(255,255,255,.18)) brightness(1.3)}
     @media(prefers-reduced-motion:reduce){.brand-logo img{transition:none}}
+
+/* ===== 2026-10-21: Hero 3D titles - floating portraits - service motion - reel grid fix - custom cursor ===== */
+/* --- Hero 3D headline system (About + Services heroes) --- */
+.h3d-title{font-size:clamp(51px,8.7vw,136px);perspective:900px;transform:perspective(1000px) rotateX(var(--h3d-rx,0deg)) rotateY(var(--h3d-ry,0deg));transition:transform .5s cubic-bezier(.2,.75,.2,1)}
+.h3d-title.h3d-live{transition:transform .16s ease-out}
+.h3d-w{display:inline-block;transform-origin:50% 100%;color:transparent;-webkit-text-fill-color:transparent;background-image:radial-gradient(190px circle at var(--h3d-mx,50%) var(--h3d-my,50%),color-mix(in srgb,var(--gold-bright) calc(var(--h3d-spot,0)*96%),transparent),color-mix(in srgb,#ff7a3d calc(var(--h3d-spot,0)*88%),transparent) 38%,color-mix(in srgb,var(--crimson) calc(var(--h3d-spot,0)*85%),transparent) 62%,transparent 78%),linear-gradient(var(--ink),var(--ink));-webkit-background-clip:text;background-clip:text;text-shadow:0 1px 0 color-mix(in srgb,var(--gold) 82%,var(--surface)),0 2px 0 color-mix(in srgb,var(--gold) 58%,var(--surface)),0 3px 0 color-mix(in srgb,var(--crimson) 48%,var(--surface)),0 5px 0 color-mix(in srgb,var(--crimson-deep) 55%,var(--surface)),0 16px 34px rgba(0,0,0,.45);transition:text-shadow .35s ease;animation:h3dRise .85s cubic-bezier(.16,.7,.22,1) both;animation-delay:calc(.12s + var(--i,0)*.09s)}
+.h3d-title.h3d-hot .h3d-w{text-shadow:0 2px 0 rgba(0,0,0,.32),0 12px 28px rgba(0,0,0,.42),0 0 34px color-mix(in srgb,var(--gold-bright) 42%,transparent)}
+.h3d-w::selection{background:var(--crimson);color:#fff;-webkit-text-fill-color:#fff}
+@keyframes h3dRise{from{opacity:0;transform:translateY(52px) rotateX(42deg) scale(.96)}to{opacity:1;transform:translateY(0) rotateX(0deg) scale(1)}}
+/* --- Floating portrait (competitor-style gentle float, whole composed frame incl. orbit rings) --- */
+.h3d-float{animation:h3dFloat 6s ease-in-out infinite}
+@keyframes h3dFloat{0%,100%{transform:translateY(-8px) scale(1);filter:drop-shadow(0 16px 20px rgba(0,0,0,.30))}50%{transform:translateY(10px) scale(1.03);filter:drop-shadow(0 34px 30px rgba(0,0,0,.48))}}
+/* --- Services: scroll reveal + proximity hover (scale, colour shift, 3D tilt via JS vars) --- */
+.service{transform-style:preserve-3d;transform:perspective(1000px) rotateX(var(--h3d-rx,0deg)) rotateY(var(--h3d-ry,0deg)) scale(var(--h3d-s,1)) translateY(calc(var(--h3d-reveal-y,0px) + var(--h3d-lift,0px)));transition:transform .45s cubic-bezier(.2,.75,.2,1),opacity .65s ease,background .3s ease,box-shadow .35s ease,padding-left .25s ease}
+.service.reveal{opacity:0;--h3d-reveal-y:30px}
+.service.reveal.visible{opacity:1;--h3d-reveal-y:0px}
+@media(pointer:fine){.service:hover{--h3d-s:1.015;--h3d-lift:-3px;background:color-mix(in srgb,var(--gold-bright) 7%,transparent);box-shadow:inset 3px 0 0 var(--gold-bright),0 24px 50px rgba(0,0,0,.35),0 0 0 1px color-mix(in srgb,var(--gold) 32%,transparent)}}
+.pricing-category.reveal{opacity:0;transform:translateY(30px);transition:opacity .65s ease,transform .65s cubic-bezier(.2,.7,.2,1)}
+.pricing-category.reveal.visible{opacity:1;transform:none}
+/* --- Reel grid fix: adaptive flex so a short final row fills/centres instead of leaving a void --- */
+.reel-grid{display:flex;flex-wrap:wrap;justify-content:center}
+.reel-grid>.video-card{flex:1 1 280px;max-width:350px;min-width:0}
+/* --- Custom cursor restored (dot + lerped ring); JS in site.js creates/drives the elements --- */
+.cursor-dot,.cursor-ring{opacity:0}
+.cursor-dot{transition:opacity .25s ease;box-shadow:0 0 10px color-mix(in srgb,var(--gold-bright) 65%,transparent)}
+.cursor-ring{transition:width .18s ease,height .18s ease,border-color .18s ease,background-color .18s ease,border-radius .18s ease,opacity .25s ease;box-shadow:0 0 18px color-mix(in srgb,var(--gold-bright) 22%,transparent),inset 0 0 12px color-mix(in srgb,var(--gold-bright) 10%,transparent)}
+.cursor-ring.text{width:3px;height:24px;border-radius:3px;background:var(--gold-bright);border-color:transparent}
+@media(hover:hover) and (pointer:fine) and (min-width:900px){.cursor-dot,.cursor-ring{display:block}body,a,button,input,textarea,select,[role="button"],summary,label{cursor:none}input[type="text"],input[type="search"],input[type="email"],input[type="tel"],input[type="url"],input[type="password"],input[type="number"],textarea,[contenteditable="true"]{cursor:text}}
+/* --- Reduced motion + no-JS safety --- */
+@media(prefers-reduced-motion:reduce){.h3d-w{animation:none}.h3d-float{animation:none}.h3d-title{transform:none;transition:none}.service,.service.reveal,.pricing-category.reveal{opacity:1!important;transform:none!important;transition:none!important;--h3d-reveal-y:0px}.cursor-dot,.cursor-ring{display:none!important}}
+@media(scripting:none){.service.reveal,.pricing-category.reveal{opacity:1;transform:none;--h3d-reveal-y:0px}}
