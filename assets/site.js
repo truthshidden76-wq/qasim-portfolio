@@ -70,8 +70,8 @@
         var reelTitle='Save $100s Every Month With These 5 FREE AI Tools!';
         var newestReel=primaryReelGrid.firstElementChild.cloneNode(true);
         newestReel.setAttribute('data-reel-id','DelaPDUusl8');newestReel.setAttribute('aria-label','Play or pause '+reelTitle);
-        var newestPoster=newestReel.querySelector('.video-poster');newestPoster.src='assets/videos/thumb-DelaPDUusl8.jpg';newestPoster.alt='Thumbnail for '+reelTitle+' Instagram reel';
-        var newestVideo=newestReel.querySelector('.selfhosted-video');newestVideo.removeAttribute('src');newestVideo.poster='assets/videos/thumb-DelaPDUusl8.jpg';newestVideo.setAttribute('data-src','assets/videos/reel-DelaPDUusl8.mp4');newestVideo.setAttribute('aria-label',reelTitle+' Instagram reel');
+        var newestPoster=newestReel.querySelector('.video-poster');newestPoster.src='assets/videos/thumb-DelaPDUusl8.webp';newestPoster.alt='Thumbnail for '+reelTitle+' Instagram reel';
+        var newestVideo=newestReel.querySelector('.selfhosted-video');newestVideo.removeAttribute('src');newestVideo.poster='assets/videos/thumb-DelaPDUusl8.webp';newestVideo.setAttribute('data-src','assets/videos/reel-DelaPDUusl8.mp4');newestVideo.setAttribute('aria-label',reelTitle+' Instagram reel');
         var newestTrigger=newestReel.querySelector('.video-trigger');newestTrigger.setAttribute('aria-label','Play '+reelTitle);
         var newestKicker=newestReel.querySelector('.video-kicker');newestKicker.firstChild.nodeValue='Reel 01 ';newestKicker.querySelector('span').textContent='New';
         newestReel.querySelector('h4').textContent=reelTitle;var newestLink=newestReel.querySelector('.video-card-copy a');newestLink.href='https://www.instagram.com/reel/DelaPDUusl8/';
@@ -84,8 +84,8 @@
         var latestTitle='3 FREE UI Libraries to Build PREMIUM Websites 🔥';
         var latestReel=primaryReelGrid.firstElementChild.cloneNode(true);
         latestReel.setAttribute('data-reel-id','DeqZur7h5ZV');latestReel.setAttribute('aria-label','Play or pause '+latestTitle);
-        var latestPoster=latestReel.querySelector('.video-poster');latestPoster.src='assets/videos/thumb-DeqZur7h5ZV.jpg';latestPoster.alt='Thumbnail for '+latestTitle+' Instagram reel';
-        var latestVideo=latestReel.querySelector('.selfhosted-video');latestVideo.removeAttribute('src');latestVideo.poster='assets/videos/thumb-DeqZur7h5ZV.jpg';latestVideo.setAttribute('data-src','assets/videos/reel-DeqZur7h5ZV.mp4');latestVideo.setAttribute('aria-label',latestTitle+' Instagram reel');
+        var latestPoster=latestReel.querySelector('.video-poster');latestPoster.src='assets/videos/thumb-DeqZur7h5ZV.webp';latestPoster.alt='Thumbnail for '+latestTitle+' Instagram reel';
+        var latestVideo=latestReel.querySelector('.selfhosted-video');latestVideo.removeAttribute('src');latestVideo.poster='assets/videos/thumb-DeqZur7h5ZV.webp';latestVideo.setAttribute('data-src','assets/videos/reel-DeqZur7h5ZV.mp4');latestVideo.setAttribute('aria-label',latestTitle+' Instagram reel');
         var latestTrigger=latestReel.querySelector('.video-trigger');latestTrigger.setAttribute('aria-label','Play '+latestTitle);
         var latestKicker=latestReel.querySelector('.video-kicker');latestKicker.firstChild.nodeValue='Reel 01 ';latestKicker.querySelector('span').textContent='New';
         latestReel.querySelector('h4').textContent=latestTitle;var latestLink=latestReel.querySelector('.video-card-copy a');latestLink.href='https://www.instagram.com/reel/DeqZur7h5ZV/';
