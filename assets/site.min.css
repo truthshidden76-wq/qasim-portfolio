@@ -30,3 +30,7 @@
 /* --- Reduced motion + no-JS safety --- */
 @media(prefers-reduced-motion:reduce){.h3d-w{animation:none}.h3d-float{animation:none}.h3d-title{transform:none;transition:none}.service,.service.reveal,.pricing-category.reveal{opacity:1!important;transform:none!important;transition:none!important;--h3d-reveal-y:0px}.cursor-dot,.cursor-ring{display:none!important}}
 @media(scripting:none){.service.reveal,.pricing-category.reveal{opacity:1;transform:none;--h3d-reveal-y:0px}}
+
+:focus-visible{outline:3px solid #c6953d;outline-offset:2px}
+
+button.filter{min-height:44px}

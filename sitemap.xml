@@ -1,404 +1,104 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/</loc>
-    <lastmod>2026-10-21</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/about.html</loc>
-    <lastmod>2026-10-21</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/services.html</loc>
-    <lastmod>2026-10-21</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/work.html</loc>
-    <lastmod>2026-10-21</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/articles.html</loc>
-    <lastmod>2026-10-21</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/50-google-flow-commands.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/7-ai-tools-2026-content-business.html</loc>
-      <lastmod>2026-10-17</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/ai-automation-sleep-2026.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/ai-image-to-3d-model-2026.html</loc>
-      <lastmod>2026-10-17</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/ai-photo-trick-chatgpt-2026.html</loc>
-      <lastmod>2026-10-17</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/ai-product-ads-30-seconds-2026.html</loc>
-      <lastmod>2026-10-17</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/ai-social-media-posts-automatic-2026.html</loc>
-      <lastmod>2026-10-17</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/ai-ugc-ads-2026.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/ai-ugc-ads-create-sell-2026.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/ai-video-editing-premiere-pro-2026.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/ai-voice-cloning-2026.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/apple-watch-ai-ad-3-images-2026.html</loc>
-      <lastmod>2026-10-17</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/beginner-free-ai-toolkit-2026.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/best-ai-tools-2026.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/best-ai-tools-for-youtube-creators-2026.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/best-ai-tools-for-youtubers.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/best-free-ai-writing-tools-for-freelancers.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/build-ai-agents-free-2026.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/chatgpt-premium-free-alternatives-2026.html</loc>
-      <lastmod>2026-10-17</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/chatgpt-vs-claude-vs-gemini-which-ai-to-use.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/claude-one-connector-ad-video-2026.html</loc>
-      <lastmod>2026-10-17</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/claude-prompt-to-video-2026.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/claude-token-limits-2026.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/click-booster-kit-free-ai-tools-thumbnails-titles-video-ideas-2026.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/clone-voice-3-seconds-ai-2026.html</loc>
-      <lastmod>2026-10-17</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/consistent-ai-videos-minutes-2026.html</loc>
-      <lastmod>2026-10-17</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/descript-ai-video-editor-2026.html</loc>
-      <lastmod>2026-10-17</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/ditch-paid-apps-free-ai-replacements-2026.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/faceless-youtube-videos-free-ai-tools.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/five-free-ai-tools.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/flashlight-photo-trend-2026.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/flow-credits-alternatives-qwen-fliki-2026.html</loc>
-    <lastmod>2026-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/free-ai-models-one-api-key-2026.html</loc>
-      <lastmod>2026-10-17</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/free-ai-prompts-library-2026.html</loc>
-      <lastmod>2026-10-17</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/free-ai-tools-2026.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/free-ai-tools-creator-workflow-2026.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/free-ai-video-generator-without-watermark-2026.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/freelancer-ai-kit-free-tools-2026.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/gemini-free-students-2026.html</loc>
-      <lastmod>2026-10-17</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/google-free-ai-tools-save-hours-2026.html</loc>
-      <lastmod>2026-10-17</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/google-synthid-detect-ai-content-2026.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/gpt-6-free-access-websites-2026.html</loc>
-      <lastmod>2026-10-17</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/hardest-part-content-consistency-system-2026.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/hidden-gems-free-ai-apps-creators-2026.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/higgsfield-alternative-2026.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/how-much-does-youtube-thumbnail-cost.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/how-to-grow-on-instagram-reels-strategy.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/how-to-grow-on-tiktok-beginners-guide.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/how-to-start-a-youtube-channel-2026.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/instagram-growth-2026.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/kling-veo-free.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/kling-veo-seedance-free-2026.html</loc>
-      <lastmod>2026-10-17</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/kling-veo-seedance-free.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/look-professional-free-ai-tools-2026.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/ltx-2-5-open-source-video-2026.html</loc>
-      <lastmod>2026-10-17</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/make-money-ai-videos-2026.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/meta-muse-ai-tasks-2026.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/my-daily-ai-stack-free-tools-content-business-2026.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/nvidia-free-ai-coder-2026.html</loc>
-      <lastmod>2026-10-17</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/one-photo-five-ai-ads-2026.html</loc>
-      <lastmod>2026-10-17</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/one-photo-to-video-ad-ai-tools-2026.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/one-stop-free-ai-toolkit-creators.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/prompt-like-pro-ai-2026.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/real-ai-voice-tools-voiceover-dubbing-2026.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/seven-free-ai-tools-2026.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/start-free-today-ai-business-2026.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/ten-free-ai-tools-small-youtube-channels.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/thirty-thousand-ai-prompts.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/unlimited-ai-videos-secret-2026.html</loc>
-      <lastmod>2026-10-17</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/unlimited-ai-videos.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/video-editing-tips-beginners.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/viral-ai-dance-videos-gemini-omni-2026.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/which-ai-tool-saves-creators-most-time-2026.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/why-youtubers-outsource-video-editing.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/write-scripts-captions-blogs-free-ai.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/youtube-branding-logo-banner-channel-art.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/youtube-seo-basics-rank-videos.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/youtube-thumbnail-ctr-guide.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/youtuber-ai-pack-2026-free-tools.html</loc>
-    <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/trellis-2-image-to-3d-free-ai-tool-2026.html</loc>
-    <lastmod>2026-10-17</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/save-100s-5-free-ai-tools-2026.html</loc>
-    <lastmod>2026-10-17</lastmod>
-  </url>
-  <url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/find-clients-meta-ads-library.html</loc><lastmod>2026-10-21</lastmod></url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/3-free-ui-websites-2026.html</loc>
-    <lastmod>2026-10-21</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/best-time-post-instagram-2026.html</loc>
-    <lastmod>2026-10-21</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/budget-brand-builder-youtube-2026.html</loc>
-    <lastmod>2026-10-21</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/channel-art-mistakes-2026.html</loc>
-    <lastmod>2026-10-21</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/first-30-days-tiktok-2026.html</loc>
-    <lastmod>2026-10-21</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/instagram-hashtags-2026.html</loc>
-    <lastmod>2026-10-21</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/instagram-posting-schedule-2026.html</loc>
-    <lastmod>2026-10-21</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/instagram-reels-algorithm-2026.html</loc>
-    <lastmod>2026-10-21</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/instagram-zero-to-10k-2026.html</loc>
-    <lastmod>2026-10-21</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/logo-design-basics-2026.html</loc>
-    <lastmod>2026-10-21</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/viewers-become-followers-2026.html</loc>
-    <lastmod>2026-10-21</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/viral-hooks-2026.html</loc>
-    <lastmod>2026-10-21</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/youtube-banner-mistakes-2026.html</loc>
-    <lastmod>2026-10-21</lastmod>
-  </url>
-  <url>
-    <loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/zero-views-fixed-tiktok-2026.html</loc>
-    <lastmod>2026-10-21</lastmod>
-  </url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/about.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/services.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/work.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/articles.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/50-google-flow-commands.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/7-ai-tools-2026-content-business.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/ai-automation-sleep-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/ai-image-to-3d-model-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/ai-photo-trick-chatgpt-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/ai-product-ads-30-seconds-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/ai-social-media-posts-automatic-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/ai-ugc-ads-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/ai-ugc-ads-create-sell-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/ai-video-editing-premiere-pro-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/ai-voice-cloning-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/apple-watch-ai-ad-3-images-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/beginner-free-ai-toolkit-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/best-ai-tools-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/best-ai-tools-for-youtube-creators-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/best-ai-tools-for-youtubers.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/best-free-ai-writing-tools-for-freelancers.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/build-ai-agents-free-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/chatgpt-premium-free-alternatives-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/chatgpt-vs-claude-vs-gemini-which-ai-to-use.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/claude-one-connector-ad-video-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/claude-prompt-to-video-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/claude-token-limits-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/click-booster-kit-free-ai-tools-thumbnails-titles-video-ideas-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/clone-voice-3-seconds-ai-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/consistent-ai-videos-minutes-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/descript-ai-video-editor-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/ditch-paid-apps-free-ai-replacements-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/faceless-youtube-videos-free-ai-tools.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/five-free-ai-tools.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/flashlight-photo-trend-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/flow-credits-alternatives-qwen-fliki-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/free-ai-models-one-api-key-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/free-ai-prompts-library-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/free-ai-tools-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/free-ai-tools-creator-workflow-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/free-ai-video-generator-without-watermark-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/freelancer-ai-kit-free-tools-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/gemini-free-students-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/google-free-ai-tools-save-hours-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/google-synthid-detect-ai-content-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/gpt-6-free-access-websites-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/hardest-part-content-consistency-system-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/hidden-gems-free-ai-apps-creators-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/higgsfield-alternative-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/how-much-does-youtube-thumbnail-cost.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/how-to-grow-on-instagram-reels-strategy.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/how-to-grow-on-tiktok-beginners-guide.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/how-to-start-a-youtube-channel-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/instagram-growth-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/kling-veo-free.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/kling-veo-seedance-free-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/kling-veo-seedance-free.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/look-professional-free-ai-tools-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/ltx-2-5-open-source-video-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/make-money-ai-videos-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/meta-muse-ai-tasks-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/my-daily-ai-stack-free-tools-content-business-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/nvidia-free-ai-coder-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/one-photo-five-ai-ads-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/one-photo-to-video-ad-ai-tools-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/one-stop-free-ai-toolkit-creators.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/prompt-like-pro-ai-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/real-ai-voice-tools-voiceover-dubbing-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/seven-free-ai-tools-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/start-free-today-ai-business-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/ten-free-ai-tools-small-youtube-channels.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/thirty-thousand-ai-prompts.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/unlimited-ai-videos-secret-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/unlimited-ai-videos.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/video-editing-tips-beginners.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/viral-ai-dance-videos-gemini-omni-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/which-ai-tool-saves-creators-most-time-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/why-youtubers-outsource-video-editing.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/write-scripts-captions-blogs-free-ai.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/youtube-branding-logo-banner-channel-art.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/youtube-seo-basics-rank-videos.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/youtube-thumbnail-ctr-guide.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/youtuber-ai-pack-2026-free-tools.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/trellis-2-image-to-3d-free-ai-tool-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/save-100s-5-free-ai-tools-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/find-clients-meta-ads-library.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/3-free-ui-websites-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/best-time-post-instagram-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/budget-brand-builder-youtube-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/channel-art-mistakes-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/first-30-days-tiktok-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/instagram-hashtags-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/instagram-posting-schedule-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/instagram-reels-algorithm-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/instagram-zero-to-10k-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/logo-design-basics-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/viewers-become-followers-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/viral-hooks-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/youtube-banner-mistakes-2026.html</loc><lastmod>2026-10-22</lastmod></url>
+<url><loc>https://qasim-portfolio-vr5w.vercel.app/assets/articles/zero-views-fixed-tiktok-2026.html</loc><lastmod>2026-10-22</lastmod></url>
 </urlset>
