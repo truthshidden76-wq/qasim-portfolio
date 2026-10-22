@@ -4,6 +4,16 @@
       "destination": "/assets/articles/50-google-flow-commands.html",
       "permanent": false,
       "source": "/flow50"
+    },
+    {
+      "source": "/assets/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/assets/",
+      "destination": "/",
+      "permanent": true
     }
   ],
   "headers": [
