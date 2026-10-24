@@ -555,13 +555,15 @@
     @media(max-width:760px){.faq-list{grid-template-columns:1fr}}
     details.faq-item[open] .faq-a{animation:faqIn .18s ease-out}
     @keyframes faqIn{from{opacity:0;transform:translateY(-6px)}to{opacity:1;transform:none}}
+    #faq{background:radial-gradient(600px 300px at 50% 0,rgba(212,175,55,.08),transparent 70%),linear-gradient(180deg,#0b0a0a,#080808)}
     .faq-list{perspective:1200px}
-    .faq-item{border:1px solid var(--line);border-radius:14px;background:var(--surface);overflow:hidden;transition:transform .4s cubic-bezier(.2,.7,.2,1),border-color .3s,box-shadow .4s,background .3s;transform-style:preserve-3d}
-    .faq-item:hover{transform:translateY(-4px) rotateX(4deg) scale(1.01);border-color:var(--gold-bright);box-shadow:0 16px 32px -12px rgba(0,0,0,.5),0 0 24px -8px var(--gold-bright)}
-    .faq-item[open]{border-color:var(--gold-bright);background:linear-gradient(135deg,var(--surface),rgba(212,175,55,.08));box-shadow:0 16px 32px -12px rgba(0,0,0,.5),0 0 24px -8px var(--gold-bright)}
+    .faq-item{border:1px solid var(--line);border-radius:14px;background:linear-gradient(180deg,var(--surface-2),var(--surface));overflow:hidden;transition:transform .4s cubic-bezier(.2,.7,.2,1),border-color .3s,box-shadow .4s,background .3s,color .3s;transform-style:preserve-3d;box-shadow:inset 0 1px 0 rgba(255,244,226,.08),0 18px 36px -18px rgba(0,0,0,.85),0 2px 0 rgba(0,0,0,.6)}
+    .faq-item:hover,.faq-item:focus-within{transform:translateY(-6px) rotateX(6deg) scale(1.015);border-color:var(--gold-bright);background:linear-gradient(135deg,#2a1f16,#171010);box-shadow:inset 0 1px 0 rgba(255,244,226,.12),0 26px 44px -16px rgba(0,0,0,.9),0 0 28px -6px rgba(223,189,120,.45)}
+    .faq-item:hover summary,.faq-item:focus-within summary{color:#fff}
+    .faq-item[open]{border-color:var(--gold-bright);background:linear-gradient(135deg,#241a12,#121010);box-shadow:inset 0 1px 0 rgba(255,244,226,.1),0 20px 38px -14px rgba(0,0,0,.9),0 0 26px -8px rgba(223,189,120,.4)}
     .faq-item summary{cursor:pointer;list-style:none;display:flex;justify-content:space-between;align-items:center;gap:16px;padding:20px 24px;font-weight:700;font-size:17px;color:var(--ink)}
     .faq-item summary::-webkit-details-marker{display:none}
-    .faq-item summary::after{content:"+";font-size:26px;font-weight:400;color:var(--gold-bright);flex:none;transition:transform .25s}
+    .faq-item summary::after{content:"+";font-size:26px;font-weight:400;color:var(--gold-bright);flex:none;transition:transform .25s,color .25s}
     .faq-item[open] summary::after{transform:rotate(45deg)}
     .faq-item .faq-a{padding:0 24px 22px;color:var(--muted);font-size:15.5px;line-height:1.7}
     .faq-item .faq-a strong{color:var(--ink)}
@@ -582,6 +584,10 @@
     .brand-logo{display:inline-block;line-height:0}
     .brand-logo img{width:46px;height:46px;display:block;filter:drop-shadow(0 8px 14px rgba(0,0,0,.65)) drop-shadow(0 2px 5px rgba(0,0,0,.45));transition:filter .3s,transform .3s}
     .brand-logo:hover img{transform:translateY(-5px) scale(1.1);filter:drop-shadow(0 14px 22px rgba(0,0,0,.7)) drop-shadow(0 0 12px rgba(255,255,255,.18)) brightness(1.3)}
+    /* ===== 2026-10-24: contact social dock 3D hover (size unchanged, 46px) ===== */
+    .brand-dock{perspective:900px}
+    .brand-dock .brand-logo{transform-style:preserve-3d;transition:transform .35s cubic-bezier(.2,.7,.2,1)}
+    .brand-dock .brand-logo:hover img,.brand-dock .brand-logo:focus-visible img{transform:translateY(-6px) rotateX(10deg) rotateY(-8deg) scale(1.08);filter:drop-shadow(0 18px 24px rgba(0,0,0,.8)) drop-shadow(0 0 14px rgba(223,189,120,.4)) brightness(1.25)}
     @media(prefers-reduced-motion:reduce){.brand-logo img{transition:none}}
 
 /* ===== 2026-10-21: Hero 3D titles - floating portraits - service motion - reel grid fix - custom cursor ===== */
