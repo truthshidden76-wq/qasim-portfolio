@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T06:44:26.723336+00:00",
+  "generatedAt": "2026-10-30T14:44:46.718024+00:00",
   "videos": [
     {
       "id": "DeqZur7h5ZV",
@@ -445,6 +445,11 @@
   ],
   "articles": [
     {
+      "slug": "3-free-seo-tools-claude-code",
+      "title": "3 Free SEO Tools That Turn Claude Code Into an SEO Expert",
+      "path": "/assets/articles/3-free-seo-tools-claude-code.html"
+    },
+    {
       "slug": "3-free-ui-websites-2026",
       "title": "3 FREE Websites for Premium UI Animations in 2026",
       "path": "/assets/articles/3-free-ui-websites-2026.html"
@@ -461,7 +466,7 @@
     },
     {
       "slug": "ai-automation-sleep-2026",
-      "title": "AI Automation in 2026: Get Work Done While You Sleep (Honest Guide)",
+      "title": "AI Automation in 2026: Get Work Done While You Sleep",
       "path": "/assets/articles/ai-automation-sleep-2026.html"
     },
     {
@@ -471,18 +476,23 @@
     },
     {
       "slug": "ai-photo-trick-chatgpt-2026",
-      "title": "AI Photo Trick: Transform Any Photo with ChatGPT in 2026 (Free Method)",
+      "title": "AI Photo Trick: Transform Any Photo with ChatGPT in 2026",
       "path": "/assets/articles/ai-photo-trick-chatgpt-2026.html"
     },
     {
       "slug": "ai-product-ads-30-seconds-2026",
-      "title": "AI Product Ads in 30 Seconds With ChatGPT + Google Flow (2026)",
+      "title": "AI Product Ads in 30 Seconds With ChatGPT + Google Flow",
       "path": "/assets/articles/ai-product-ads-30-seconds-2026.html"
     },
     {
       "slug": "ai-social-media-posts-automatic-2026",
-      "title": "Stop Creating Social Media Posts Manually in 2026: AI Does It in Seconds",
+      "title": "Stop Creating Social Media Posts Manually in 2026",
       "path": "/assets/articles/ai-social-media-posts-automatic-2026.html"
+    },
+    {
+      "slug": "ai-tools-guide-for-creators-2026",
+      "title": "AI Tools Guide for Creators 2026: Organized by Category to Power Your Future",
+      "path": "/assets/articles/ai-tools-guide-for-creators-2026.html"
     },
     {
       "slug": "ai-ugc-ads-2026",
@@ -491,7 +501,7 @@
     },
     {
       "slug": "ai-ugc-ads-create-sell-2026",
-      "title": "AI UGC Ads: How Creators Make and Sell Product Ads From a Single Photo in 2026",
+      "title": "AI UGC Ads: Make and Sell Product Ads From One Photo",
       "path": "/assets/articles/ai-ugc-ads-create-sell-2026.html"
     },
     {
@@ -516,12 +526,12 @@
     },
     {
       "slug": "best-ai-tools-2026",
-      "title": "Best AI Tools 2026: 10 Free Tools for Creators",
+      "title": "Best AI Tools 2026: 10 Free Tools Every Creator Should Try",
       "path": "/assets/articles/best-ai-tools-2026.html"
     },
     {
       "slug": "best-ai-tools-for-youtube-creators-2026",
-      "title": "Best AI Tools for YouTube Creators in 2026: Editing, SEO and Growth",
+      "title": "Best AI Tools for YouTube Creators in 2026: Editing, SEO",
       "path": "/assets/articles/best-ai-tools-for-youtube-creators-2026.html"
     },
     {
@@ -535,9 +545,24 @@
       "path": "/assets/articles/best-free-ai-writing-tools-for-freelancers.html"
     },
     {
+      "slug": "best-time-post-instagram-2026",
+      "title": "Best Time to Post on Instagram in 2026: Peak Engagement",
+      "path": "/assets/articles/best-time-post-instagram-2026.html"
+    },
+    {
+      "slug": "budget-brand-builder-youtube-2026",
+      "title": "How to Build a Professional YouTube Brand on a Budget",
+      "path": "/assets/articles/budget-brand-builder-youtube-2026.html"
+    },
+    {
       "slug": "build-ai-agents-free-2026",
       "title": "3 Free AI Tools to Build AI Agents Fast (No Coding Needed)",
       "path": "/assets/articles/build-ai-agents-free-2026.html"
+    },
+    {
+      "slug": "channel-art-mistakes-2026",
+      "title": "7 YouTube Channel Art Mistakes That Kill Your Growth",
+      "path": "/assets/articles/channel-art-mistakes-2026.html"
     },
     {
       "slug": "chatgpt-premium-free-alternatives-2026",
@@ -556,7 +581,7 @@
     },
     {
       "slug": "claude-prompt-to-video-2026",
-      "title": "Claude Opus 5.5: Turn One Prompt Into a Full Motion-Graphics Video",
+      "title": "Claude Opus 5.5: Turn a Prompt Into a Motion-Graphics Video",
       "path": "/assets/articles/claude-prompt-to-video-2026.html"
     },
     {
@@ -566,7 +591,7 @@
     },
     {
       "slug": "click-booster-kit-free-ai-tools-thumbnails-titles-video-ideas-2026",
-      "title": "Click Booster Kit: Free AI Tools for Thumbnails, Titles and Video Ideas That Win the Click in 2026",
+      "title": "Click Booster Kit: AI Tools for Thumbnails &amp; Titles",
       "path": "/assets/articles/click-booster-kit-free-ai-tools-thumbnails-titles-video-ideas-2026.html"
     },
     {
@@ -586,7 +611,7 @@
     },
     {
       "slug": "ditch-paid-apps-free-ai-replacements-2026",
-      "title": "Ditch Paid Apps: Free AI Replacements for Every Expensive Creator Tool in 2026",
+      "title": "Ditch Paid Apps: Free AI Replacements for Paid Tools",
       "path": "/assets/articles/ditch-paid-apps-free-ai-replacements-2026.html"
     },
     {
@@ -595,8 +620,18 @@
       "path": "/assets/articles/faceless-youtube-videos-free-ai-tools.html"
     },
     {
+      "slug": "find-clients-meta-ads-library",
+      "title": "How to Find Clients Using the Meta Ads Library (2026)",
+      "path": "/assets/articles/find-clients-meta-ads-library.html"
+    },
+    {
+      "slug": "first-30-days-tiktok-2026",
+      "title": "TikTok First 30 Days: Beginner Formula to Get 10K Followers",
+      "path": "/assets/articles/first-30-days-tiktok-2026.html"
+    },
+    {
       "slug": "five-free-ai-tools",
-      "title": "5 Free AI Tools 2026 for Content Creators",
+      "title": "5 FREE AI Tools You Need to Know (Stop Paying for AI!)",
       "path": "/assets/articles/five-free-ai-tools.html"
     },
     {
@@ -606,8 +641,13 @@
     },
     {
       "slug": "flow-credits-alternatives-qwen-fliki-2026",
-      "title": "Ran Out of Flow AI Credits? 2 Free AI Video Generators Worth Trying in 2026 (Qwen AI + Fliki)",
+      "title": "Ran Out of Flow AI Credits? 2 Free AI Video Generators",
       "path": "/assets/articles/flow-credits-alternatives-qwen-fliki-2026.html"
+    },
+    {
+      "slug": "free-ai-agent-harvey-claude-code-2026",
+      "title": "Free AI Agent With Claude Code: Harvey Finds Clients (2026)",
+      "path": "/assets/articles/free-ai-agent-harvey-claude-code-2026.html"
     },
     {
       "slug": "free-ai-models-one-api-key-2026",
@@ -626,12 +666,12 @@
     },
     {
       "slug": "free-ai-tools-creator-workflow-2026",
-      "title": "From Idea to Published: A Complete Free AI Workflow for Creators in 2026",
+      "title": "From Idea to Published: A Complete Free AI Workflow",
       "path": "/assets/articles/free-ai-tools-creator-workflow-2026.html"
     },
     {
       "slug": "free-ai-video-generator-without-watermark-2026",
-      "title": "Free AI Video Generator Without Watermark: 10 Best Tools in 2026",
+      "title": "Free AI Video Generator Without Watermark: 10 Best Tools",
       "path": "/assets/articles/free-ai-video-generator-without-watermark-2026.html"
     },
     {
@@ -661,17 +701,17 @@
     },
     {
       "slug": "hardest-part-content-consistency-system-2026",
-      "title": "Why Consistency Is the Hardest Part of Creating Content (And the System That Fixes It)",
+      "title": "Why Consistency Is the Hardest Part of Creating Content",
       "path": "/assets/articles/hardest-part-content-consistency-system-2026.html"
     },
     {
       "slug": "hidden-gems-free-ai-apps-creators-2026",
-      "title": "Hidden Gems: 8 Free AI Apps Most Creators Have Never Tried in 2026",
+      "title": "Hidden Gems: 8 Free AI Apps Most Creators Have Never Tried",
       "path": "/assets/articles/hidden-gems-free-ai-apps-creators-2026.html"
     },
     {
       "slug": "higgsfield-alternative-2026",
-      "title": "Best Higgsfield Alternatives: 1 Free AI Tool That Replaces Them All (2026)",
+      "title": "Best Higgsfield Alternatives: One Free Tool Replaces All",
       "path": "/assets/articles/higgsfield-alternative-2026.html"
     },
     {
@@ -700,19 +740,49 @@
       "path": "/assets/articles/instagram-growth-2026.html"
     },
     {
+      "slug": "instagram-hashtags-2026",
+      "title": "Hashtag Truth 2026: Do Instagram Hashtags Still Work?",
+      "path": "/assets/articles/instagram-hashtags-2026.html"
+    },
+    {
+      "slug": "instagram-posting-schedule-2026",
+      "title": "Perfect Instagram Posting Schedule 2026: When to Post",
+      "path": "/assets/articles/instagram-posting-schedule-2026.html"
+    },
+    {
+      "slug": "instagram-reels-algorithm-2026",
+      "title": "Instagram Reels Algorithm Cracked: How to Go Viral in 2026",
+      "path": "/assets/articles/instagram-reels-algorithm-2026.html"
+    },
+    {
+      "slug": "instagram-zero-to-10k-2026",
+      "title": "Instagram Growth Roadmap: Zero to 10K Followers in 2026",
+      "path": "/assets/articles/instagram-zero-to-10k-2026.html"
+    },
+    {
       "slug": "kling-veo-free",
-      "title": "Kling, Veo &amp; Seedance Free AI Video Guide",
+      "title": "3 Secret Websites: Kling, Veo &amp; Seedance FREE Mein",
       "path": "/assets/articles/kling-veo-free.html"
     },
     {
       "slug": "kling-veo-seedance-free-2026",
-      "title": "Use Kling, Veo and Seedance 2 for Free: 3 Secret Websites (2026)",
+      "title": "Use Kling, Veo and Seedance 2 for Free: 3 Secret Websites",
       "path": "/assets/articles/kling-veo-seedance-free-2026.html"
     },
     {
       "slug": "kling-veo-seedance-free",
       "title": "Kling vs Veo vs Seedance: Free AI Video Tools",
       "path": "/assets/articles/kling-veo-seedance-free.html"
+    },
+    {
+      "slug": "lmarena-arena-ai-compare-ai-models-free-2026",
+      "title": "LMArena (Arena AI) 2026: Compare Claude, ChatGPT, Gemini and Grok Free in One Place",
+      "path": "/assets/articles/lmarena-arena-ai-compare-ai-models-free-2026.html"
+    },
+    {
+      "slug": "logo-design-basics-2026",
+      "title": "Logo Design Basics 2026: Complete Beginner&#x27;s Guide",
+      "path": "/assets/articles/logo-design-basics-2026.html"
     },
     {
       "slug": "look-professional-free-ai-tools-2026",
@@ -731,17 +801,22 @@
     },
     {
       "slug": "meta-muse-ai-tasks-2026",
-      "title": "Meta Muse AI: The AI Agent That Does Tasks For You (2026 Guide)",
+      "title": "Meta Muse AI: The AI Agent That Does Tasks For You",
       "path": "/assets/articles/meta-muse-ai-tasks-2026.html"
     },
     {
+      "slug": "muse-vs-dots-2026",
+      "title": "Muse vs Dots: Meta AI vs OpenAI Always-On Agents (2026)",
+      "path": "/assets/articles/muse-vs-dots-2026.html"
+    },
+    {
       "slug": "my-daily-ai-stack-free-tools-content-business-2026",
-      "title": "My Daily AI Stack: The Free Tools I Use Every Day to Run a Content Business in 2026",
+      "title": "My Daily AI Stack: Free Tools I Use Every Day",
       "path": "/assets/articles/my-daily-ai-stack-free-tools-content-business-2026.html"
     },
     {
       "slug": "nvidia-free-ai-coder-2026",
-      "title": "NVIDIA&#x27;s Free AI Coder Is Here: What Creators Should Know (2026)",
+      "title": "NVIDIA&#x27;s Free AI Coder: What Creators Should Know",
       "path": "/assets/articles/nvidia-free-ai-coder-2026.html"
     },
     {
@@ -751,7 +826,7 @@
     },
     {
       "slug": "one-photo-to-video-ad-ai-tools-2026",
-      "title": "One Photo to a Full Video Ad: How AI Video Tools Turn Images Into Commercials in 2026",
+      "title": "One Photo to a Full Video Ad With AI Video Tools",
       "path": "/assets/articles/one-photo-to-video-ad-ai-tools-2026.html"
     },
     {
@@ -760,8 +835,18 @@
       "path": "/assets/articles/one-stop-free-ai-toolkit-creators.html"
     },
     {
+      "slug": "opendot-ai-runs-your-pc-2026",
+      "title": "OpenDot: The Free Open Source AI Agent That Runs Your PC (2026)",
+      "path": "/assets/articles/opendot-ai-runs-your-pc-2026.html"
+    },
+    {
+      "slug": "pinterest-traffic-for-creators-2026",
+      "title": "Pinterest Traffic for Creators 2026: How Pins Bring Visitors to Your Website",
+      "path": "/assets/articles/pinterest-traffic-for-creators-2026.html"
+    },
+    {
       "slug": "prompt-like-pro-ai-2026",
-      "title": "Prompt Like a Pro: The Simple Framework That Turns Average AI Output Into Professional Results in 2026",
+      "title": "Prompt Like a Pro: The Framework for Pro AI Results",
       "path": "/assets/articles/prompt-like-pro-ai-2026.html"
     },
     {
@@ -771,7 +856,7 @@
     },
     {
       "slug": "save-100s-5-free-ai-tools-2026",
-      "title": "Save $100s Every Month With These 5 FREE AI Tools! (2026 Guide)",
+      "title": "Save $100s Every Month With These 5 FREE AI Tools!",
       "path": "/assets/articles/save-100s-5-free-ai-tools-2026.html"
     },
     {
@@ -791,7 +876,7 @@
     },
     {
       "slug": "thirty-thousand-ai-prompts",
-      "title": "30K AI Prompts: Free Prompt Library Guide",
+      "title": "30,000+ Free AI Prompts: Build Better Images and Videos",
       "path": "/assets/articles/thirty-thousand-ai-prompts.html"
     },
     {
@@ -815,13 +900,23 @@
       "path": "/assets/articles/video-editing-tips-beginners.html"
     },
     {
+      "slug": "viewers-become-followers-2026",
+      "title": "How to Turn Instagram Viewers Into Followers in 2026",
+      "path": "/assets/articles/viewers-become-followers-2026.html"
+    },
+    {
       "slug": "viral-ai-dance-videos-gemini-omni-2026",
-      "title": "How to Create Viral AI Dance Videos with Google Gemini Omni (Free Tutorial)",
+      "title": "How to Create Viral AI Dance Videos with Google Gemini Omni",
       "path": "/assets/articles/viral-ai-dance-videos-gemini-omni-2026.html"
     },
     {
+      "slug": "viral-hooks-2026",
+      "title": "15 Hooks That Stop the Scroll: Viral Content Hooks for 2026",
+      "path": "/assets/articles/viral-hooks-2026.html"
+    },
+    {
       "slug": "which-ai-tool-saves-creators-most-time-2026",
-      "title": "Which AI Tool Saves Creators the Most Time in 2026? An Honest Comparison",
+      "title": "Which AI Tool Saves Creators the Most Time in 2026?",
       "path": "/assets/articles/which-ai-tool-saves-creators-most-time-2026.html"
     },
     {
@@ -835,6 +930,11 @@
       "path": "/assets/articles/write-scripts-captions-blogs-free-ai.html"
     },
     {
+      "slug": "youtube-banner-mistakes-2026",
+      "title": "YouTube Banner Mistakes: 10 Design Errors That Cost You",
+      "path": "/assets/articles/youtube-banner-mistakes-2026.html"
+    },
+    {
       "slug": "youtube-branding-logo-banner-channel-art",
       "title": "YouTube Branding Guide: Logo, Banner &amp; Channel Art",
       "path": "/assets/articles/youtube-branding-logo-banner-channel-art.html"
@@ -845,6 +945,11 @@
       "path": "/assets/articles/youtube-seo-basics-rank-videos.html"
     },
     {
+      "slug": "youtube-shorts-growth-2026",
+      "title": "YouTube Shorts Growth 2026: Hooks, Scripts, and CapCut Workflow That Actually Works",
+      "path": "/assets/articles/youtube-shorts-growth-2026.html"
+    },
+    {
       "slug": "youtube-thumbnail-ctr-guide",
       "title": "YouTube Thumbnail CTR Guide for More Clicks",
       "path": "/assets/articles/youtube-thumbnail-ctr-guide.html"
@@ -853,10 +958,15 @@
       "slug": "youtuber-ai-pack-2026-free-tools",
       "title": "The YouTuber AI Pack: Free AI Tools (2026)",
       "path": "/assets/articles/youtuber-ai-pack-2026-free-tools.html"
+    },
+    {
+      "slug": "zero-views-fixed-tiktok-2026",
+      "title": "Why Your TikToks Get Zero Views: 5 Proven Fixes for 2026",
+      "path": "/assets/articles/zero-views-fixed-tiktok-2026.html"
     }
   ],
   "counts": {
     "videos": 49,
-    "articles": 82
+    "articles": 104
   }
 }
