@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-10-30T14:44:46.718024+00:00",
+  "generatedAt": "2026-11-05T06:44:03.880742+00:00",
   "videos": [
+    {
+      "id": "DfKDEn7BxmF",
+      "file": "reel-DfKDEn7BxmF.mp4",
+      "title": "5 FREE AI TOOLS YOU NEED IN 2026! 💰 Save Money & Work Smarter",
+      "url": "https://www.instagram.com/reel/DfKDEn7BxmF/",
+      "likes": 2,
+      "comments": 0,
+      "created_at": "2026-10-31 04:28:06"
+    },
+    {
+      "id": "DfG75P2uiRr",
+      "file": "reel-DfG75P2uiRr.mp4",
+      "title": "3 FREE SEO Tools That Turn Claude Code Into an SEO Expert! 🚀",
+      "url": "https://www.instagram.com/reel/DfG75P2uiRr/",
+      "likes": 0,
+      "comments": 0,
+      "created_at": "2026-10-29 23:27:36"
+    },
+    {
+      "id": "DfBx2JVPj3W",
+      "file": "reel-DfBx2JVPj3W.mp4",
+      "title": "Unlimited AI Tools in One Place 🤯 | Free AI Website",
+      "url": "https://www.instagram.com/reel/DfBx2JVPj3W/",
+      "likes": 2,
+      "comments": 1,
+      "created_at": "2026-10-27 23:23:32"
+    },
+    {
+      "id": "De33xgNBPky",
+      "file": "reel-De33xgNBPky.mp4",
+      "title": "AI That Actually Controls Your Computer 🤯",
+      "url": "https://www.instagram.com/reel/De33xgNBPky/",
+      "likes": 15,
+      "comments": 5,
+      "created_at": "2026-10-24 03:03:07"
+    },
+    {
+      "id": "De0q3O7MTeN",
+      "file": "reel-De0q3O7MTeN.mp4",
+      "title": "This FREE AI Agent Works With Claude Code 🤯",
+      "url": "https://www.instagram.com/reel/De0q3O7MTeN/",
+      "likes": 0,
+      "comments": 6,
+      "created_at": "2026-10-22 21:13:13"
+    },
+    {
+      "id": "DewUryTtckJ",
+      "file": "reel-DewUryTtckJ.mp4",
+      "title": "How to Find Clients Using Meta Ads Library",
+      "url": "https://www.instagram.com/reel/DewUryTtckJ/",
+      "likes": 0,
+      "comments": 0,
+      "created_at": "2026-10-21 04:43:51"
+    },
     {
       "id": "DeqZur7h5ZV",
       "file": "reel-DeqZur7h5ZV.mp4",
@@ -445,6 +499,21 @@
   ],
   "articles": [
     {
+      "slug": "11-claude-skills-youtube-creators-2026",
+      "title": "11 Claude Skills for YouTube Creators: The 7 Skills Named in the Thumbnail, Explained Honestly",
+      "path": "/assets/articles/11-claude-skills-youtube-creators-2026.html"
+    },
+    {
+      "slug": "15-free-ai-tools-every-creator-2026",
+      "title": "15 Free AI Tools Every Creator Should Try in 2026",
+      "path": "/assets/articles/15-free-ai-tools-every-creator-2026.html"
+    },
+    {
+      "slug": "1980s-photo-trend-chatgpt-2026",
+      "title": "1980s Photo Trend: Turn a Modern Photo Into a 1980s Portrait With ChatGPT",
+      "path": "/assets/articles/1980s-photo-trend-chatgpt-2026.html"
+    },
+    {
       "slug": "3-free-seo-tools-claude-code",
       "title": "3 Free SEO Tools That Turn Claude Code Into an SEO Expert",
       "path": "/assets/articles/3-free-seo-tools-claude-code.html"
@@ -455,14 +524,39 @@
       "path": "/assets/articles/3-free-ui-websites-2026.html"
     },
     {
+      "slug": "45-free-courses-python-data-science-2026",
+      "title": "45 Free Courses Across the Engineering Stack: Python, SQL, Machine Learning and More",
+      "path": "/assets/articles/45-free-courses-python-data-science-2026.html"
+    },
+    {
+      "slug": "5-free-ai-tools-save-money-2026",
+      "title": "5 Free AI Tools That Save You Money in 2026",
+      "path": "/assets/articles/5-free-ai-tools-save-money-2026.html"
+    },
+    {
       "slug": "50-google-flow-commands",
       "title": "50 Google Flow Commands for Cinematic AI Videos",
       "path": "/assets/articles/50-google-flow-commands.html"
     },
     {
+      "slug": "6-free-ai-study-tools-explain-anything-2026",
+      "title": "6 Free AI Study Tools That Explain Anything in Simple Words (2026)",
+      "path": "/assets/articles/6-free-ai-study-tools-explain-anything-2026.html"
+    },
+    {
       "slug": "7-ai-tools-2026-content-business",
       "title": "7 AI Tools You Need in 2026 to 10X Your Content and Business",
       "path": "/assets/articles/7-ai-tools-2026-content-business.html"
+    },
+    {
+      "slug": "744b-ai-model-laptop-25gb-ram-2026",
+      "title": "744 Billion Parameter AI Model on a Laptop: What the 25 GB RAM Claim Really Means",
+      "path": "/assets/articles/744b-ai-model-laptop-25gb-ram-2026.html"
+    },
+    {
+      "slug": "add-second-person-video-ai-2026",
+      "title": "Add a Second Person to Your Video With AI: ChatGPT, CapCut and Google Flow",
+      "path": "/assets/articles/add-second-person-video-ai-2026.html"
     },
     {
       "slug": "ai-automation-sleep-2026",
@@ -545,9 +639,19 @@
       "path": "/assets/articles/best-free-ai-writing-tools-for-freelancers.html"
     },
     {
+      "slug": "best-posting-time-instagram-6pm-2026",
+      "title": "Best Posting Time on Instagram: Find Your Own Peak in Insights, Not a Universal 6pm",
+      "path": "/assets/articles/best-posting-time-instagram-6pm-2026.html"
+    },
+    {
       "slug": "best-time-post-instagram-2026",
       "title": "Best Time to Post on Instagram in 2026: Peak Engagement",
       "path": "/assets/articles/best-time-post-instagram-2026.html"
+    },
+    {
+      "slug": "bike-assemble-ai-google-flow-royal-enfield-2026",
+      "title": "Bike Assemble AI Video With Google Flow: Royal Enfield Assembly and Reassembly",
+      "path": "/assets/articles/bike-assemble-ai-google-flow-royal-enfield-2026.html"
     },
     {
       "slug": "budget-brand-builder-youtube-2026",
@@ -558,6 +662,11 @@
       "slug": "build-ai-agents-free-2026",
       "title": "3 Free AI Tools to Build AI Agents Fast (No Coding Needed)",
       "path": "/assets/articles/build-ai-agents-free-2026.html"
+    },
+    {
+      "slug": "chalrey-chalrey-trend-google-flow-2026",
+      "title": "Chalrey Chalrey Trend: Make Your Photo Dance With Google Flow",
+      "path": "/assets/articles/chalrey-chalrey-trend-google-flow-2026.html"
     },
     {
       "slug": "channel-art-mistakes-2026",
@@ -573,6 +682,16 @@
       "slug": "chatgpt-vs-claude-vs-gemini-which-ai-to-use",
       "title": "ChatGPT vs Claude vs Gemini (2026): Best AI by Task",
       "path": "/assets/articles/chatgpt-vs-claude-vs-gemini-which-ai-to-use.html"
+    },
+    {
+      "slug": "claude-2-better-than-chatgpt-2026",
+      "title": "Claude 2.0 Better Than ChatGPT? (2026)",
+      "path": "/assets/articles/claude-2-better-than-chatgpt-2026.html"
+    },
+    {
+      "slug": "claude-motion-graphics-2026",
+      "title": "Claude Motion Graphics: Turn Ideas Into Animations With Code",
+      "path": "/assets/articles/claude-motion-graphics-2026.html"
     },
     {
       "slug": "claude-one-connector-ad-video-2026",
@@ -600,6 +719,11 @@
       "path": "/assets/articles/clone-voice-3-seconds-ai-2026.html"
     },
     {
+      "slug": "code-becomes-anime-claude-pygame-2026",
+      "title": "Code Becomes Anime: How Claude and Pygame Turn Code Into Animation at Zero Cost",
+      "path": "/assets/articles/code-becomes-anime-claude-pygame-2026.html"
+    },
+    {
       "slug": "consistent-ai-videos-minutes-2026",
       "title": "Create Consistent AI Videos in Minutes: The 2026 Workflow",
       "path": "/assets/articles/consistent-ai-videos-minutes-2026.html"
@@ -615,6 +739,11 @@
       "path": "/assets/articles/ditch-paid-apps-free-ai-replacements-2026.html"
     },
     {
+      "slug": "engineer-playlists-free-youtube-2026",
+      "title": "Free Engineer Playlists on YouTube: Learn Programming, System Design and DevOps in Order",
+      "path": "/assets/articles/engineer-playlists-free-youtube-2026.html"
+    },
+    {
       "slug": "faceless-youtube-videos-free-ai-tools",
       "title": "Faceless YouTube Videos with Free AI Tools (2026)",
       "path": "/assets/articles/faceless-youtube-videos-free-ai-tools.html"
@@ -628,6 +757,11 @@
       "slug": "first-30-days-tiktok-2026",
       "title": "TikTok First 30 Days: Beginner Formula to Get 10K Followers",
       "path": "/assets/articles/first-30-days-tiktok-2026.html"
+    },
+    {
+      "slug": "five-chatgpt-photo-commands-2026",
+      "title": "5 ChatGPT Photo Commands: Sunset Sky, Ghost Effect, Fire Border, Light Trails and Gangster Style",
+      "path": "/assets/articles/five-chatgpt-photo-commands-2026.html"
     },
     {
       "slug": "five-free-ai-tools",
@@ -675,9 +809,24 @@
       "path": "/assets/articles/free-ai-video-generator-without-watermark-2026.html"
     },
     {
+      "slug": "free-frontend-sites-motion-21st-dev-trickle-2026",
+      "title": "Free Frontend Sites for Motion: MotionSites, 21st.dev and Trickle, With Honest Limits",
+      "path": "/assets/articles/free-frontend-sites-motion-21st-dev-trickle-2026.html"
+    },
+    {
+      "slug": "free-top-courses-ibm-google-stanford-2026",
+      "title": "Free Top Courses From IBM, Google and Stanford: Data Science, Digital Marketing and Machine Learning",
+      "path": "/assets/articles/free-top-courses-ibm-google-stanford-2026.html"
+    },
+    {
       "slug": "freelancer-ai-kit-free-tools-2026",
       "title": "The Freelancer AI Kit: Free AI Tools for 2026",
       "path": "/assets/articles/freelancer-ai-kit-free-tools-2026.html"
+    },
+    {
+      "slug": "gemini-birthday-prompts-2026",
+      "title": "Gemini Birthday Prompts: Birthday Portraits Girls Are Saving, With One Tested Prompt",
+      "path": "/assets/articles/gemini-birthday-prompts-2026.html"
     },
     {
       "slug": "gemini-free-students-2026",
@@ -703,6 +852,11 @@
       "slug": "hardest-part-content-consistency-system-2026",
       "title": "Why Consistency Is the Hardest Part of Creating Content",
       "path": "/assets/articles/hardest-part-content-consistency-system-2026.html"
+    },
+    {
+      "slug": "hashtags-that-work-instagram-2026",
+      "title": "Hashtags That Work on Instagram: The Right Hashtags, Consistency and Analytics",
+      "path": "/assets/articles/hashtags-that-work-instagram-2026.html"
     },
     {
       "slug": "hidden-gems-free-ai-apps-creators-2026",
@@ -805,6 +959,11 @@
       "path": "/assets/articles/meta-muse-ai-tasks-2026.html"
     },
     {
+      "slug": "movie-to-shorts-opusclip-sintel-2026",
+      "title": "Movie to Shorts With OpusClip: Turn Sintel Into Shorts the Legal Creative Commons Way",
+      "path": "/assets/articles/movie-to-shorts-opusclip-sintel-2026.html"
+    },
+    {
       "slug": "muse-vs-dots-2026",
       "title": "Muse vs Dots: Meta AI vs OpenAI Always-On Agents (2026)",
       "path": "/assets/articles/muse-vs-dots-2026.html"
@@ -818,6 +977,11 @@
       "slug": "nvidia-free-ai-coder-2026",
       "title": "NVIDIA&#x27;s Free AI Coder: What Creators Should Know",
       "path": "/assets/articles/nvidia-free-ai-coder-2026.html"
+    },
+    {
+      "slug": "one-hour-documentary-one-prompt-2026",
+      "title": "Make a 1 Hour Documentary From 1 Prompt: The Honest Workflow",
+      "path": "/assets/articles/one-hour-documentary-one-prompt-2026.html"
     },
     {
       "slug": "one-photo-five-ai-ads-2026",
@@ -850,9 +1014,19 @@
       "path": "/assets/articles/prompt-like-pro-ai-2026.html"
     },
     {
+      "slug": "put-yourself-into-any-video-one-photo-free-ai-2026",
+      "title": "Put Yourself Into Any Video With One Photo and Free AI",
+      "path": "/assets/articles/put-yourself-into-any-video-one-photo-free-ai-2026.html"
+    },
+    {
       "slug": "real-ai-voice-tools-voiceover-dubbing-2026",
       "title": "Real AI Voice Tools for Voiceovers and Dubbing",
       "path": "/assets/articles/real-ai-voice-tools-voiceover-dubbing-2026.html"
+    },
+    {
+      "slug": "same-face-everywhere-ai-photos-2026",
+      "title": "Keep Your Face the Same in Every AI Photo: The ChatGPT Custom Instructions Method",
+      "path": "/assets/articles/same-face-everywhere-ai-photos-2026.html"
     },
     {
       "slug": "save-100s-5-free-ai-tools-2026",
@@ -860,9 +1034,24 @@
       "path": "/assets/articles/save-100s-5-free-ai-tools-2026.html"
     },
     {
+      "slug": "see-code-work-linkedin-list-animation-2026",
+      "title": "See Code Work: Watch a Linked List Insertion Step by Step With Staying.fun",
+      "path": "/assets/articles/see-code-work-linkedin-list-animation-2026.html"
+    },
+    {
       "slug": "seven-free-ai-tools-2026",
       "title": "7 Free AI Tools That Replace Expensive Software",
       "path": "/assets/articles/seven-free-ai-tools-2026.html"
+    },
+    {
+      "slug": "six-free-certificates-ibm-harvard-google-2026",
+      "title": "6 Free Certificates From IBM, Harvard CS50 and Google Skillshop: What to Check Before You Start",
+      "path": "/assets/articles/six-free-certificates-ibm-harvard-google-2026.html"
+    },
+    {
+      "slug": "smooth-scrolling-websites-animation-component-libraries-2026",
+      "title": "Build Smooth Scrolling Websites With 2 Animation Component Libraries",
+      "path": "/assets/articles/smooth-scrolling-websites-animation-component-libraries-2026.html"
     },
     {
       "slug": "start-free-today-ai-business-2026",
@@ -870,9 +1059,24 @@
       "path": "/assets/articles/start-free-today-ai-business-2026.html"
     },
     {
+      "slug": "story-to-cartoon-chatgpt-deevia-2026",
+      "title": "Story to Cartoon: Turn a ChatGPT Story Into a Cartoon Video With Deevia",
+      "path": "/assets/articles/story-to-cartoon-chatgpt-deevia-2026.html"
+    },
+    {
+      "slug": "tad-ai-music-video-2026",
+      "title": "Tad AI Music Video: Turn Photos and a Song Into a Music Video in 9:16",
+      "path": "/assets/articles/tad-ai-music-video-2026.html"
+    },
+    {
       "slug": "ten-free-ai-tools-small-youtube-channels",
       "title": "10 Free AI Tools for Small YouTube Channels",
       "path": "/assets/articles/ten-free-ai-tools-small-youtube-channels.html"
+    },
+    {
+      "slug": "text-becomes-motion-code-animation-no-video-model-2026",
+      "title": "Turn One Line of Text Into a Moving Animation Without a Video Model",
+      "path": "/assets/articles/text-becomes-motion-code-animation-no-video-model-2026.html"
     },
     {
       "slug": "thirty-thousand-ai-prompts",
@@ -898,6 +1102,11 @@
       "slug": "video-editing-tips-beginners",
       "title": "Video Editing Tips for Beginners: Retention Guide",
       "path": "/assets/articles/video-editing-tips-beginners.html"
+    },
+    {
+      "slug": "video-in-minutes-gemini-notebooklm-2026",
+      "title": "Video in Minutes With NotebookLM: Turn Notes Into a Video in Hindi",
+      "path": "/assets/articles/video-in-minutes-gemini-notebooklm-2026.html"
     },
     {
       "slug": "viewers-become-followers-2026",
@@ -960,13 +1169,18 @@
       "path": "/assets/articles/youtuber-ai-pack-2026-free-tools.html"
     },
     {
+      "slug": "zero-credit-warning-qwen-google-flow-2026",
+      "title": "Zero Credit Warning: Qwen and Google Flow AI Video Credits Explained Before You Generate",
+      "path": "/assets/articles/zero-credit-warning-qwen-google-flow-2026.html"
+    },
+    {
       "slug": "zero-views-fixed-tiktok-2026",
       "title": "Why Your TikToks Get Zero Views: 5 Proven Fixes for 2026",
       "path": "/assets/articles/zero-views-fixed-tiktok-2026.html"
     }
   ],
   "counts": {
-    "videos": 49,
-    "articles": 104
+    "videos": 55,
+    "articles": 136
   }
 }
