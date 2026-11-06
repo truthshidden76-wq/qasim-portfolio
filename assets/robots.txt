@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://qasim-portfolio-vr5w.vercel.app/assets/sitemap.xml
