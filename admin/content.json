@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T06:44:53.490349+00:00",
+  "generatedAt": "2026-11-08T06:44:54.143084+00:00",
   "videos": [
     {
       "id": "DfZM4hgvXsV",
@@ -561,6 +561,11 @@
       "slug": "744b-ai-model-laptop-25gb-ram-2026",
       "title": "744 Billion Parameter AI Model on a Laptop: What the 25 GB RAM Claim Really Means",
       "path": "/assets/articles/744b-ai-model-laptop-25gb-ram-2026.html"
+    },
+    {
+      "slug": "9-free-github-tools-replace-paid-apps-2026",
+      "title": "9 Free GitHub Tools That Replace Paid Apps (2026)",
+      "path": "/assets/articles/9-free-github-tools-replace-paid-apps-2026.html"
     },
     {
       "slug": "add-second-person-video-ai-2026",
@@ -1195,6 +1200,6 @@
   ],
   "counts": {
     "videos": 56,
-    "articles": 137
+    "articles": 138
   }
 }
