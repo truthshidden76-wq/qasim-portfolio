@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T06:44:53.657093+00:00",
+  "generatedAt": "2026-11-09T15:28:17.208806+00:00",
   "videos": [
     {
       "id": "DfZM4hgvXsV",
@@ -523,6 +523,11 @@
       "path": "/assets/articles/1980s-photo-trend-chatgpt-2026.html"
     },
     {
+      "slug": "3-ai-tools-every-creator-should-know-pimeyes-elevenlabs-topaz-2026",
+      "title": "3 AI Tools Every Creator Should Know: PimEyes, ElevenLabs and Topaz Photo AI",
+      "path": "/assets/articles/3-ai-tools-every-creator-should-know-pimeyes-elevenlabs-topaz-2026.html"
+    },
+    {
       "slug": "3-free-seo-tools-claude-code",
       "title": "3 Free SEO Tools That Turn Claude Code Into an SEO Expert",
       "path": "/assets/articles/3-free-seo-tools-claude-code.html"
@@ -536,6 +541,11 @@
       "slug": "45-free-courses-python-data-science-2026",
       "title": "45 Free Courses Across the Engineering Stack: Python, SQL, Machine Learning and More",
       "path": "/assets/articles/45-free-courses-python-data-science-2026.html"
+    },
+    {
+      "slug": "5-ai-tools-every-video-editor-needs-2026",
+      "title": "5 AI Tools Every Video Editor Needs in 2026",
+      "path": "/assets/articles/5-ai-tools-every-video-editor-needs-2026.html"
     },
     {
       "slug": "5-free-ai-tools-save-money-2026",
@@ -623,6 +633,11 @@
       "path": "/assets/articles/ai-voice-cloning-2026.html"
     },
     {
+      "slug": "animate-lightning-scene-one-sentence-2026",
+      "title": "Animate a Lightning Scene From One Sentence, No Animator Needed",
+      "path": "/assets/articles/animate-lightning-scene-one-sentence-2026.html"
+    },
+    {
       "slug": "apple-watch-ai-ad-3-images-2026",
       "title": "Apple Watch AI Ad From Just 3 Images: Case Study (2026)",
       "path": "/assets/articles/apple-watch-ai-ad-3-images-2026.html"
@@ -668,6 +683,11 @@
       "path": "/assets/articles/bike-assemble-ai-google-flow-royal-enfield-2026.html"
     },
     {
+      "slug": "bilibili-vs-youtube-truth-creators-switching-2026",
+      "title": "Bilibili vs YouTube: The Truth Creators Need Before Switching",
+      "path": "/assets/articles/bilibili-vs-youtube-truth-creators-switching-2026.html"
+    },
+    {
       "slug": "budget-brand-builder-youtube-2026",
       "title": "How to Build a Professional YouTube Brand on a Budget",
       "path": "/assets/articles/budget-brand-builder-youtube-2026.html"
@@ -676,6 +696,16 @@
       "slug": "build-ai-agents-free-2026",
       "title": "3 Free AI Tools to Build AI Agents Fast (No Coding Needed)",
       "path": "/assets/articles/build-ai-agents-free-2026.html"
+    },
+    {
+      "slug": "build-website-free-ai-one-afternoon-2026",
+      "title": "Build a Whole Website With Free AI in One Afternoon",
+      "path": "/assets/articles/build-website-free-ai-one-afternoon-2026.html"
+    },
+    {
+      "slug": "capcut-automation-tricks-save-hours-editing-2026",
+      "title": "CapCut Automation Tricks That Save Hours of Editing",
+      "path": "/assets/articles/capcut-automation-tricks-save-hours-editing-2026.html"
     },
     {
       "slug": "chalrey-chalrey-trend-google-flow-2026",
@@ -713,6 +743,11 @@
       "path": "/assets/articles/claude-one-connector-ad-video-2026.html"
     },
     {
+      "slug": "claude-pdf-secret-upload-pdf-ask-questions-2026",
+      "title": "Claude PDF Secret: Upload a PDF and Ask Questions to Extract Information",
+      "path": "/assets/articles/claude-pdf-secret-upload-pdf-ask-questions-2026.html"
+    },
+    {
       "slug": "claude-prompt-to-video-2026",
       "title": "Claude Opus 5.5: Turn a Prompt Into a Motion-Graphics Video",
       "path": "/assets/articles/claude-prompt-to-video-2026.html"
@@ -743,6 +778,11 @@
       "path": "/assets/articles/consistent-ai-videos-minutes-2026.html"
     },
     {
+      "slug": "cricket-ai-video-tutorial-reels-2026",
+      "title": "Create a Trending Cricket AI Video Tutorial for Reels",
+      "path": "/assets/articles/cricket-ai-video-tutorial-reels-2026.html"
+    },
+    {
       "slug": "descript-ai-video-editor-2026",
       "title": "Descript AI Video Editor: Edit Videos Like Text in 2026",
       "path": "/assets/articles/descript-ai-video-editor-2026.html"
@@ -753,6 +793,11 @@
       "path": "/assets/articles/ditch-paid-apps-free-ai-replacements-2026.html"
     },
     {
+      "slug": "editing-dreams-capcut-automation-poetry-2026",
+      "title": "Editing Dreams in CapCut: Automation Meets Poetry",
+      "path": "/assets/articles/editing-dreams-capcut-automation-poetry-2026.html"
+    },
+    {
       "slug": "engineer-playlists-free-youtube-2026",
       "title": "Free Engineer Playlists on YouTube: Learn Programming, System Design and DevOps in Order",
       "path": "/assets/articles/engineer-playlists-free-youtube-2026.html"
@@ -761,6 +806,11 @@
       "slug": "faceless-youtube-videos-free-ai-tools",
       "title": "Faceless YouTube Videos with Free AI Tools (2026)",
       "path": "/assets/articles/faceless-youtube-videos-free-ai-tools.html"
+    },
+    {
+      "slug": "fifa-world-cup-ai-content-viral-videos-2026",
+      "title": "FIFA World Cup AI Content: Turn a Trend Into Viral Videos With ChatGPT, Gemini and CapCut",
+      "path": "/assets/articles/fifa-world-cup-ai-content-viral-videos-2026.html"
     },
     {
       "slug": "find-clients-meta-ads-library",
@@ -848,6 +898,11 @@
       "path": "/assets/articles/gemini-birthday-prompts-2026.html"
     },
     {
+      "slug": "gemini-features-most-people-miss-2026",
+      "title": "90% of People Use Gemini Wrong: Gemini Features Most People Miss",
+      "path": "/assets/articles/gemini-features-most-people-miss-2026.html"
+    },
+    {
       "slug": "gemini-free-students-2026",
       "title": "Google Gemini 3.8 and 25 Pro Free for Students (2026 Guide)",
       "path": "/assets/articles/gemini-free-students-2026.html"
@@ -906,6 +961,11 @@
       "slug": "how-to-start-a-youtube-channel-2026",
       "title": "How to Start a YouTube Channel in 2026",
       "path": "/assets/articles/how-to-start-a-youtube-channel-2026.html"
+    },
+    {
+      "slug": "hygen-workflow-trick-smarter-way-use-hygen-2026",
+      "title": "Hygen Workflow Trick: A Smarter Way to Use Hygen",
+      "path": "/assets/articles/hygen-workflow-trick-smarter-way-use-hygen-2026.html"
     },
     {
       "slug": "instagram-growth-2026",
@@ -978,6 +1038,11 @@
       "path": "/assets/articles/meta-muse-ai-tasks-2026.html"
     },
     {
+      "slug": "motivational-edit-powerful-words-stay-in-mind-2026",
+      "title": "A Short Motivational Edit With Powerful Words That Stay in Your Mind",
+      "path": "/assets/articles/motivational-edit-powerful-words-stay-in-mind-2026.html"
+    },
+    {
       "slug": "movie-to-shorts-opusclip-sintel-2026",
       "title": "Movie to Shorts With OpusClip: Turn Sintel Into Shorts the Legal Creative Commons Way",
       "path": "/assets/articles/movie-to-shorts-opusclip-sintel-2026.html"
@@ -991,6 +1056,16 @@
       "slug": "my-daily-ai-stack-free-tools-content-business-2026",
       "title": "My Daily AI Stack: Free Tools I Use Every Day",
       "path": "/assets/articles/my-daily-ai-stack-free-tools-content-business-2026.html"
+    },
+    {
+      "slug": "n8n-ai-automation-digital-employee-2026",
+      "title": "n8n AI Automation: AI Agents, Social Media, Leads, Email and CRM Workflows",
+      "path": "/assets/articles/n8n-ai-automation-digital-employee-2026.html"
+    },
+    {
+      "slug": "nano-banana-pro-nano-banana-2-free-google-tool-2026",
+      "title": "Nano Banana Pro and Nano Banana 2 Free Through a Google Tool",
+      "path": "/assets/articles/nano-banana-pro-nano-banana-2-free-google-tool-2026.html"
     },
     {
       "slug": "nvidia-free-ai-coder-2026",
@@ -1018,9 +1093,19 @@
       "path": "/assets/articles/one-stop-free-ai-toolkit-creators.html"
     },
     {
+      "slug": "openai-jalapeno-ai-chip-challenges-nvidia-2026",
+      "title": "OpenAI's Jalapeno AI Chip Challenges Nvidia: What Creators Should Know",
+      "path": "/assets/articles/openai-jalapeno-ai-chip-challenges-nvidia-2026.html"
+    },
+    {
       "slug": "opendot-ai-runs-your-pc-2026",
       "title": "OpenDot: The Free Open Source AI Agent That Runs Your PC (2026)",
       "path": "/assets/articles/opendot-ai-runs-your-pc-2026.html"
+    },
+    {
+      "slug": "phone-photos-cinematic-video-free-ai-2026",
+      "title": "Turn Your Phone Photos Into Cinematic Video Clips With Free AI",
+      "path": "/assets/articles/phone-photos-cinematic-video-free-ai-2026.html"
     },
     {
       "slug": "pinterest-traffic-for-creators-2026",
@@ -1041,6 +1126,11 @@
       "slug": "real-ai-voice-tools-voiceover-dubbing-2026",
       "title": "Real AI Voice Tools for Voiceovers and Dubbing",
       "path": "/assets/articles/real-ai-voice-tools-voiceover-dubbing-2026.html"
+    },
+    {
+      "slug": "replit-animate-prompts-professional-motion-graphics-2026",
+      "title": "Replit Animate: Turn Prompts Into Professional Motion Graphics",
+      "path": "/assets/articles/replit-animate-prompts-professional-motion-graphics-2026.html"
     },
     {
       "slug": "same-face-everywhere-ai-photos-2026",
@@ -1078,6 +1168,11 @@
       "path": "/assets/articles/start-free-today-ai-business-2026.html"
     },
     {
+      "slug": "start-video-editing-skill-capcut-no-expensive-setup-2026",
+      "title": "Start Video Editing With Just Skill and CapCut, No Expensive Setup",
+      "path": "/assets/articles/start-video-editing-skill-capcut-no-expensive-setup-2026.html"
+    },
+    {
       "slug": "story-to-cartoon-chatgpt-deevia-2026",
       "title": "Story to Cartoon: Turn a ChatGPT Story Into a Cartoon Video With Deevia",
       "path": "/assets/articles/story-to-cartoon-chatgpt-deevia-2026.html"
@@ -1106,6 +1201,11 @@
       "slug": "trellis-2-image-to-3d-free-ai-tool-2026",
       "title": "Trellis 2: Turn Any Image Into a 3D Model for Free in 2026",
       "path": "/assets/articles/trellis-2-image-to-3d-free-ai-tool-2026.html"
+    },
+    {
+      "slug": "trust-allah-motivational-edit-faith-patience-success-2026",
+      "title": "Trust Allah: A Short Motivational Edit on Faith, Patience and Success",
+      "path": "/assets/articles/trust-allah-motivational-edit-faith-patience-success-2026.html"
     },
     {
       "slug": "unlimited-ai-videos-secret-2026",
@@ -1148,6 +1248,11 @@
       "path": "/assets/articles/which-ai-tool-saves-creators-most-time-2026.html"
     },
     {
+      "slug": "why-claude-new-ai-models-getting-attention-2026",
+      "title": "Why Claude's New AI Models Are Getting Attention",
+      "path": "/assets/articles/why-claude-new-ai-models-getting-attention-2026.html"
+    },
+    {
       "slug": "why-youtubers-outsource-video-editing",
       "title": "Why YouTubers Outsource Video Editing in 2026",
       "path": "/assets/articles/why-youtubers-outsource-video-editing.html"
@@ -1156,6 +1261,11 @@
       "slug": "write-scripts-captions-blogs-free-ai",
       "title": "Write Scripts, Captions and Blogs Free with AI",
       "path": "/assets/articles/write-scripts-captions-blogs-free-ai.html"
+    },
+    {
+      "slug": "youtube-automation-style-capcut-edit-cinematic-showcase-2026",
+      "title": "YouTube Automation Style CapCut Edit: A Cinematic Editing Showcase",
+      "path": "/assets/articles/youtube-automation-style-capcut-edit-cinematic-showcase-2026.html"
     },
     {
       "slug": "youtube-banner-mistakes-2026",
@@ -1200,6 +1310,6 @@
   ],
   "counts": {
     "videos": 56,
-    "articles": 138
+    "articles": 160
   }
 }
