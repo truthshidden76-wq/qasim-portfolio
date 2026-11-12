@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T14:34:12.075777+00:00",
+  "generatedAt": "2026-11-12T06:44:52.821251+00:00",
   "videos": [
     {
       "id": "DfZM4hgvXsV",
@@ -893,6 +893,11 @@
       "path": "/assets/articles/freelancer-ai-kit-free-tools-2026.html"
     },
     {
+      "slug": "freellm-api-free-claude-code-2026",
+      "title": "Run Claude Code FREE With FreeLLM API: 7 Billion Free Tokens, 2-Minute Setup (2026)",
+      "path": "/assets/articles/freellm-api-free-claude-code-2026.html"
+    },
+    {
       "slug": "gemini-birthday-prompts-2026",
       "title": "Gemini Birthday Prompts: Birthday Portraits Girls Are Saving, With One Tested Prompt",
       "path": "/assets/articles/gemini-birthday-prompts-2026.html"
@@ -1315,6 +1320,6 @@
   ],
   "counts": {
     "videos": 56,
-    "articles": 161
+    "articles": 162
   }
 }
