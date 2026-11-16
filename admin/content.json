@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T06:44:52.690864+00:00",
+  "generatedAt": "2026-11-16T06:44:53.330553+00:00",
   "videos": [
     {
       "id": "DfZM4hgvXsV",
@@ -568,6 +568,11 @@
       "path": "/assets/articles/7-ai-tools-2026-content-business.html"
     },
     {
+      "slug": "7-free-ai-tools-small-shops-ads-posts-replies-2026",
+      "title": "7 Free AI Tools for Small Shops That Make Ads, Posts and Replies",
+      "path": "/assets/articles/7-free-ai-tools-small-shops-ads-posts-replies-2026.html"
+    },
+    {
       "slug": "744b-ai-model-laptop-25gb-ram-2026",
       "title": "744 Billion Parameter AI Model on a Laptop: What the 25 GB RAM Claim Really Means",
       "path": "/assets/articles/744b-ai-model-laptop-25gb-ram-2026.html"
@@ -611,6 +616,11 @@
       "slug": "ai-tools-guide-for-creators-2026",
       "title": "AI Tools Guide for Creators 2026: Organized by Category to Power Your Future",
       "path": "/assets/articles/ai-tools-guide-for-creators-2026.html"
+    },
+    {
+      "slug": "ai-tools-plan-full-week-content-one-sitting-2026",
+      "title": "AI Tools That Plan a Full Week of Content in One Sitting",
+      "path": "/assets/articles/ai-tools-plan-full-week-content-one-sitting-2026.html"
     },
     {
       "slug": "ai-ugc-ads-2026",
@@ -1320,6 +1330,6 @@
   ],
   "counts": {
     "videos": 56,
-    "articles": 162
+    "articles": 164
   }
 }
